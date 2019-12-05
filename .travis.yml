@@ -1,11 +1,14 @@
-language: ruby
-cache: bundler
-gemfile: docs/Gemfile
+language:      node_js
+git:
+  depth:       3
+node_js:
+  - "node"
+install:       npm install
 script:
-  - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
-branches:
-  only:
-    # Change this to gh-pages if you're deploying using the gh-pages branch
-    - master
-rvm:
- - 2.4
+  - npm test
+  - gulp
+cache:
+  directories:
+    - node_modules
+notifications:
+  email:       false

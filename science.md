@@ -1,5 +1,5 @@
 ---
 layout: science
-title: "Science | otvam.ch"
+title: "Science Tools | otvam.ch"
 ---
 

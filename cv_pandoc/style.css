@@ -1,0 +1,86 @@
+<style type="text/css">
+/*
+ * Copyright 2013 Christophe-Marie Duquesne
+ * Copyright 2021 Thomas Guillod
+ *
+ * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+ * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ */
+
+/* Whole document */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+}
+
+/* Title of the resume */
+h1 {
+    font-size: 55px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    color: #1B2631;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 19%;
+    height: 10px;
+    background-color: #3498DB;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 20%;
+    font-weight: bold;
+    text-align: left;
+}
+dd {
+    margin-left: 20%;
+    margin-bottom:7px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #3498DB;
+}
+a:hover, a:active {
+    color: #1B2631;
+    text-decoration: none;
+}
+
+/* Horizontal separators */
+hr {
+    border-width: 0;
+    color: #3498DB;
+    background-color: #3498DB;
+    height: 2px;
+}
+
+table {
+    width: 100%;
+}
+</style>

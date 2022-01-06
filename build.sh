@@ -1,10 +1,10 @@
 echo "================= CV / pandoc"
 pandoc \
        --standalone \
-       --include-in-header cv_pandoc/style.css \
+       --include-in-header pandoc/style.css \
        --from markdown --to html \
        --metadata pagetitle="Thomas Guillod / CV" \
-       --output data/cv_guillod.html cv_pandoc/resume.md
+       --output data/cv_guillod.html pandoc/resume.md
 
 echo "================= CV / wkhtmltopdf"
 wkhtmltopdf \

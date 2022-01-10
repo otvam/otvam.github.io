@@ -257,7 +257,7 @@ Further Scientific Contributions
 [Talk 2018]
 :   D. Rothmund, **T. Guillod**, D. Bortis, and J. W. Kolar, "Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer", IEEC ECCE, USA, 2018
 
-:   [Workshop 2017]
+[Workshop 2017]
 :   **T. Guillod**, F. Krismer, and, J. W. Kolar, "Dielectric Losses: MV/MF Converter Insulation", SCCER FURIES Technical Workshop, Switzerland, 2017
 
 [Talk 2016]

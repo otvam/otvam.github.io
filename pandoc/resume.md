@@ -44,7 +44,7 @@ Work Experience
     *Study of high voltage corona discharges with mixed AC/DC voltages*
  
 09.2011 - 12.2011
-:   **Intern**, Bombardier Transport, Propulsion and Controls, Zürich, Switzerland
+:   **Intern**, Bombardier Transport, Propulsion and Controls, Zurich, Switzerland
 
     *Simulation of traction chain of high-speed trains (transformer and converter)*
     
@@ -52,7 +52,7 @@ Work Experience
 08.2008 - 09.2009
 :   **Teacher Substitute**, CIFOM-ET, Le Locle, Switzerland
 
-    *Mathematic and physics teachingat a technical high school*
+    *Mathematics and physics teaching at a technical high school*
 
 Education
 ---------
@@ -90,7 +90,7 @@ French
 :   Native speaker
 
 English
-:   Fluent (C1) - Master and Ph.D studies in English, many publications in English
+:   Fluent (C1) - Master and PhD studies in English, many publications in English
 
 German
 :   Fluent (C1) - Bachelor studies in German, Intensivkurs Deutsch als Fremdsprache
@@ -251,8 +251,8 @@ Further Scientific Contributions
 [Workshop 2019]
 :   **T. Guillod** and J. W. Kolar, "Dielectric Losses in the Insulation of Dry-Type Medium-Frequency Transformers", ECPE Solid-State Transformer Workshop, Switzerland, 2019
 
-[Ph.D 2018]
-:   **T. Guillod**, "Modeling and Design of Medium-Frequency Transformers for Future Medium-Voltage Power Electronics Interfaces", Ph.D. Thesis, ETH Zurich, 2018
+[PhD 2018]
+:   **T. Guillod**, "Modeling and Design of Medium-Frequency Transformers for Future Medium-Voltage Power Electronics Interfaces", PhD Thesis, ETH Zurich, 2018
 
 [Talk 2018]
 :   D. Rothmund, **T. Guillod**, D. Bortis, and J. W. Kolar, "Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer", IEEC ECCE, USA, 2018

@@ -74,7 +74,7 @@ Education
 09.2012 - 03.2013
 :   **Master Thesis**, ETH Zurich, Switzerland, High Voltage Lab. (with Swissgrid)
 
-    *Simulation of AC/DC Hybrids Overhead Lines*
+    *Simulation of AC/DC Hybrid Overhead Lines*
  
 09.2007 - 02.2011
 :   **Bachelor of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.

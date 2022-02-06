@@ -25,4 +25,4 @@ wkhtmltopdf \
         data/cv_guillod.pdf
 
  echo "================= SITE / sass"      
-sass _sass/modern-resume-theme.scss  main.css
+sass _sass/modern-resume-theme.scss main.css

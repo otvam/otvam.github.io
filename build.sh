@@ -26,17 +26,4 @@ wkhtmltopdf -q \
 
  echo "================= SITE / css"      
 sass _sass/modern-resume-theme.scss main.css
-
-declare -a url=(
-    "https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500,500italic,400italic,300italic,100italic,700italic"
-    "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
-    "https://use.fontawesome.com/releases/v5.11.2/css/all.css"
-    "https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css"
-)
-                
-for i in "${url[@]}"
-do
-   echo "$(curl -s "$i" | cat - main.css)" > main.css
-done
-
-yui-compressor -o main.css  main.css
+yui-compressor -o main.css main.css

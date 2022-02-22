@@ -58,20 +58,3 @@
   transform: scale3d(1, 1, 1);
 }
 
-.dark {
-  .button--sacnite::before {
-    box-shadow: inset 0 0 0 35px #e6e6e6;
-  }
-
-  .button.button--sacnite {
-    color: #222;
-  }
-
-  .button--sacnite:hover {
-    color: #e6e6e6;
-  }
-
-  .button--sacnite:hover::before {
-    box-shadow: inset 0 0 0 2px #e6e6e6;
-  }
-}

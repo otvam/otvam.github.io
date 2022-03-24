@@ -180,6 +180,9 @@ Peer-Reviewed Scientific Journal Papers
 Peer-reviewed International Conference Proceedings
 --------------------------------------------------
 
+[APEC 2022]
+:   Haoran Li, D. Serrano, **T. Guillod**, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling", IEEE APEC, USA, 2022
+
 [CIPS 2020]
 :   M. Kasper, L. Peluso, G. Deboy, G. Knabben, **T. Guillod**, and J. W. Kolar, "Ultra-high Power Density Server Supplies Employing GaN Power Semiconductors and PCB-Integrated Magnetics", IEEE CIPS, Germany, 2020
 
@@ -220,6 +223,9 @@ Peer-reviewed International Conference Proceedings
 
 Further Scientific Contributions
 --------------------------------
+
+[Workshop 2022]
+:   C. R. Sullivan and **T. Guillod**, "Magnetic Core Geometry Influences on Component Performance", PSMA Workshop, High Frequency Power Magnetics, USA, 2022
 
 [Workshop 2021]
 :   **T. Guillod** and J. W. Kolar, "ANN Powered Models for Magnetic Components", ECPE Online Workshop, Steps towards Design Automation & Artificial Intelligence in Power Electronics, 2021

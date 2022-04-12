@@ -181,7 +181,7 @@ Peer-reviewed International Conference Proceedings
 --------------------------------------------------
 
 [APEC 2022]
-:   Haoran Li, D. Serrano, **T. Guillod**, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling", IEEE APEC, USA, 2022
+:   H. Li, D. Serrano, **T. Guillod**, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling", IEEE APEC, USA, 2022
 
 [CIPS 2020]
 :   M. Kasper, L. Peluso, G. Deboy, G. Knabben, **T. Guillod**, and J. W. Kolar, "Ultra-high Power Density Server Supplies Employing GaN Power Semiconductors and PCB-Integrated Magnetics", IEEE CIPS, Germany, 2020

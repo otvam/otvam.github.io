@@ -38,7 +38,7 @@ Work Experience
 
     *Design and construction of medium voltage DC-DC converters, teaching*
  
-04.2014 - 07.2013
+04.2013 - 07.2013
 :   **Research Assistant**, ETH Zurich, Switzerland, High Voltage Lab.
 
     *Study of high voltage corona discharges with mixed AC/DC voltages*

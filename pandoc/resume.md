@@ -180,6 +180,9 @@ Peer-Reviewed Scientific Journal Papers
 Peer-reviewed International Conference Proceedings
 --------------------------------------------------
 
+[COMPEL 2022]
+:   D. Serrano, H. Li, **T. Guillod**, S. Wang, M. Luo, C. R. Sullivan, M. Chen, "Neural Network as Datasheet: Modeling B-H Loops of Power Magnetics with Sequence-to-Sequence LSTM Encoder-Decoder Architecture", IEEE COMPEL, Israel, 2022
+
 [APEC 2022]
 :   H. Li, D. Serrano, **T. Guillod**, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling", IEEE APEC, USA, 2022
 

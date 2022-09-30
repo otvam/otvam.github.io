@@ -228,6 +228,9 @@ Further Scientific Contributions
 --------------------------------
 
 [Workshop 2022]
+:   **T. Guillod** and C. R. Sullivan, "Data-Driven Core-Loss Modeling", ECPE Magnetic Components Workshop, France, 2022
+
+[Workshop 2022]
 :   C. R. Sullivan and **T. Guillod**, "Magnetic Core Geometry Influences on Component Performance", PSMA Workshop, High Frequency Power Magnetics, USA, 2022
 
 [Workshop 2021]

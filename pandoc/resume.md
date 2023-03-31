@@ -180,6 +180,15 @@ Peer-Reviewed Scientific Journal Papers
 Peer-reviewed International Conference Proceedings
 --------------------------------------------------
 
+[APEC 2023]
+:   **T. Guillod**, J. Lee, H. Li, S. Wang, M. Chen, C. R. Sullivan, "Calculation of Ferrite Core Losses with Arbitrary Waveforms Using the Composite Waveform Hypothesis", IEEE APEC, USA, 2023
+
+[APEC 2023]
+:   H. Li, D. Serrano, S. Wang, **T. Guillod**, M. Luo, M. Chen, "Predicting the B-H Loops of Power Magnetics with Transformer-Based Encoder-Projector-Decoder Neural Network Architecture", IEEE APEC, USA, 2023
+
+[APEC 2023]
+:   S. Wang, D. Serrano, H. Li, A. Lin, **T. Guillod**, M. Luo, C. R. Sullivan, M. Chen, "A Simplified DC-Bias Injection Method with Mirror Transformer for Magnetic Material Characterization", IEEE APEC, USA, 2023
+
 [COMPEL 2022]
 :   D. Serrano, H. Li, **T. Guillod**, S. Wang, M. Luo, C. R. Sullivan, M. Chen, "Neural Network as Datasheet: Modeling B-H Loops of Power Magnetics with Sequence-to-Sequence LSTM Encoder-Decoder Architecture", IEEE COMPEL, Israel, 2022
 

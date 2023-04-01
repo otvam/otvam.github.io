@@ -29,12 +29,12 @@ Work Experience
     *Magnetic component design, converter optimization, dielectric barrier discharges*
  
 11.2018 - 07.2020
-:   **Postdoctoral Researcher**, ETH Zurich, Switzerland, Power Electronic Systems Lab.
+:   **Postdoctoral Researcher**, ETH Zurich, Switzerland, PES Lab.
 
     *Medium-voltage and/or high-frequency magnetics, machine learning, thesis supervision*
  
 09.2013 - 11.2018
-:   **Research & Teaching Assistant**, ETH Zurich, Switzerland, Power Electronic Systems Lab.
+:   **Research & Teaching Assistant**, ETH Zurich, Switzerland, PES Lab.
 
     *Design and construction of medium voltage DC-DC converters, teaching*
  

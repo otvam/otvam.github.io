@@ -236,6 +236,9 @@ Peer-reviewed International Conference Proceedings
 Further Scientific Contributions
 --------------------------------
 
+[Talk 2023]
+:   **T. Guillod**, "MagNet Challenge Webinar: Equation-based Baseline Models", IEEE PELS MagNet Challenge Webinar, 2023
+
 [Workshop 2022]
 :   **T. Guillod** and C. R. Sullivan, "Data-Driven Core-Loss Modeling", ECPE Magnetic Components Workshop, France, 2022
 

@@ -313,6 +313,9 @@ Further Scientific Contributions
 Awards & Grants
 ---------------
 
+PMIC 2023
+:   Power Management Integration Center / NSF IUCRC / Accepted Proposal
+
 SNSF 2021
 :   Swiss National Science Foundation Mobility Fellowship
 
@@ -346,6 +349,11 @@ ETG 2013
 Open-Source Tools
 -----------------
 
+2022 - 2023
+:   PyPEEC - FFT/GPU Accelerated 3D quasi-magnetostatic PEEC solver.
+
+    Python, [pypeec.otvam.ch](https://pypeec.otvam.ch)
+    
 2016 - 2021
 :   Toolbox for power magnetics: model and optimization.
 

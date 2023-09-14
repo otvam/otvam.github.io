@@ -243,6 +243,9 @@ Further Scientific Contributions
 --------------------------------
 
 [Talk 2023]
+:   **T. Guillod**, "Using (Simple) Neural Networks to boost Power Magnetics Models", Mag & Mad Conference, Spain, 2023
+
+[Talk 2023]
 :   **T. Guillod**, "MagNet Challenge Webinar: Equation-based Baseline Models", IEEE PELS MagNet Challenge Webinar, 2023
 
 [Workshop 2022]

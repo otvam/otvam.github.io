@@ -31,7 +31,7 @@ Work Experience
 11.2018 - 07.2020
 :   **Postdoctoral Researcher**, ETH Zurich, Switzerland, PES Lab.
 
-    *Medium-voltage and/or high-frequency magnetics, machine learning, thesis supervision*
+    *Medium-voltage and/or high-frequency magnetics, machine learning, thesis co-supervision*
  
 09.2013 - 11.2018
 :   **Research & Teaching Assistant**, ETH Zurich, Switzerland, PES Lab.
@@ -185,6 +185,9 @@ Peer-Reviewed Scientific Journal Papers
 
 Peer-reviewed International Conference Proceedings
 --------------------------------------------------
+
+[ICEMS 2023]
+:   T. Ohno, S. Miric, **T. Guillod**, F. Krismer, J. Huber, J. W. Kolar, "New Triple-Output Quad-Active-Bridge DC/DC Converter Employing a Four-Leg Inverter Input Stage", IEEE ICEMS, China, 2023
 
 [APEC 2023]
 :   **T. Guillod**, J. Lee, H. Li, S. Wang, M. Chen, C. R. Sullivan, "Calculation of Ferrite Core Losses with Arbitrary Waveforms Using the Composite Waveform Hypothesis", IEEE APEC, USA, 2023

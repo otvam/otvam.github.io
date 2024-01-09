@@ -7,11 +7,11 @@ Thomas Guillod / CV
 
 ----
 
-------------------------         -----------------------------------------------------------
+------------------------         ------------------------------------------------------------
 Location: NH, USA                                                          <guillod@otvam.ch>
-Citizenship: Switzerland         [linkedin.com/in/tguillod](https://linkedin.com/in/tguillod) 
+Citizenship: Switzerland         [linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
 Birth year: 1989                                 [github.com/otvam](https://github.com/otvam)
-------------------------         -----------------------------------------------------------
+------------------------         ------------------------------------------------------------
 
 ----
 
@@ -352,10 +352,10 @@ IEEE ECCE 2014
 ETG 2013
 :   ETG-Innovationspreis Finalist (electrosuisse)
 
-Open-Source Tools
------------------
+Open-Source Software
+--------------------
 
-2022 - 2023
+2023 - 2024
 :   PyPEEC - FFT/GPU Accelerated 3D quasi-magnetostatic PEEC solver.
 
     Python, [pypeec.otvam.ch](https://pypeec.otvam.ch)

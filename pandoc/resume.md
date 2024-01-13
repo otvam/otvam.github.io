@@ -104,14 +104,14 @@ Science
     high-frequency measurements, high-voltage testing, machine learning
 
 Computer
-:   Linux, Windows, Word, Excel, Powerpoint, Illustrator, LaTeX,\
+:   Linux, UNIX, Windows, Word, Excel, Powerpoint, Illustrator, LaTeX,\
     COMSOL, Ansys, Altium Designer, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, Keras, TensorFlow, MATLAB, Qt, C, Java, DSP, Bash
+:   Python, PyTorch, TensorFlow, MATLAB, Qt, C, Java, DSP, Bash
 
 Open-source
-:   Creation and maintenance of scientific open-source tools
+:   Development and maintenance of scientific open-source tools
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -356,7 +356,7 @@ Open-Source Software
 --------------------
 
 2023 - 2024
-:   PyPEEC - FFT/GPU Accelerated 3D quasi-magnetostatic PEEC solver.
+:   PyPEEC - FFT/GPU accelerated 3D quasi-magnetostatic PEEC solver.
 
     Python, [pypeec.otvam.ch](https://pypeec.otvam.ch)
     

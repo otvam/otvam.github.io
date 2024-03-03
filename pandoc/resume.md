@@ -186,6 +186,12 @@ Peer-Reviewed Scientific Journal Papers
 Peer-reviewed International Conference Proceedings
 --------------------------------------------------
 
+[APEC 2024]
+:   **T. Guillod**, W. V. R. Roberts, C. R. Sullivan, "Characterization and Impact of Large-Signal Dielectric Properties in MnZn Ferrites", IEEE APEC, USA, 2024
+
+[APEC 2024]
+:   E. Deleu, H. Li, J. Li, W. Lee, **T. Guillod**, C. R. Sullivan, S. Wang, M. Chen, "Multi-Material Power Magnetics Modeling with a Modular and Scalable Machine Learning Framework", IEEE APEC, USA, 2024
+
 [ICEMS 2023]
 :   T. Ohno, S. Miric, **T. Guillod**, F. Krismer, J. Huber, J. W. Kolar, "New Triple-Output Quad-Active-Bridge DC/DC Converter Employing a Four-Leg Inverter Input Stage", IEEE ICEMS, China, 2023
 
@@ -244,6 +250,9 @@ Peer-reviewed International Conference Proceedings
 
 Further Scientific Contributions
 --------------------------------
+
+[Workshop 2024]
+:   C. R. Sullivan and **T. Guillod**, "Thermal, Scaling and Dielectric Issues in Magnetics Design", PSMA Workshop, High Frequency Power Magnetics, USA, 2024
 
 [Talk 2023]
 :   **T. Guillod**, "Using (Simple) Neural Networks to boost Power Magnetics Models", Mag & Mad Conference, Spain, 2023

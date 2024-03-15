@@ -118,11 +118,14 @@ Open-source
 Peer-Reviewed Scientific Journal Papers
 ---------------------------------------
 
-[TPEL 2023]
-:   D. Serrano, H. Li, S. Wang, **T. Guillod**, M. Luo, V. Bansal, N. K. Jha, Y. Chen,  C. R. Sullivan, M. Chen, "Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics", IEEE Trans. Power Electron., 2023
+[TPEL 2024]
+:   S. Wang, H. Li, D. Serrano, **T. Guillod**, J. Li, C. R. Sullivan, M. Chen, "A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer", IEEE Trans. Power Electron., 2024
 
 [TPEL 2023]
-:   H. Li, D. Serrano, **T. Guillod**, S. Wang, E. Dogariu, A. Nadler, M. Luo, V. Bansal, N. K. Jha, Y. Chen,  C. R. Sullivan, M. Chen, "How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics", IEEE Trans. Power Electron., 2023
+:   D. Serrano, H. Li, S. Wang, **T. Guillod**, M. Luo, V. Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen, "Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics", IEEE Trans. Power Electron., 2023
+
+[TPEL 2023]
+:   H. Li, D. Serrano, **T. Guillod**, S. Wang, E. Dogariu, A. Nadler, M. Luo, V. Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen, "How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics", IEEE Trans. Power Electron., 2023
 
 [JESTPE 2021]
 :   **T. Guillod**, P. Czyz J. W. Kolar, "Geometrical Optimization of Medium-Frequency Air-Core Transformers for DCX Applications", IEEE J. Emerg. Sel. Topics Power Electron., 2021
@@ -130,7 +133,7 @@ Peer-Reviewed Scientific Journal Papers
 [JESTPE 2021]
 :   P. Czyz, **T. Guillod**, D. Zhang, F. Krismer, R. Färber, J. Huber, C. M. Franck J. W. Kolar, "Analysis of the Performance Limits of 166 kW / 7 kV Air-Core and Magnetic-Core Medium-Voltage Medium-Frequency Transformers for 1:1-DCX Applications", IEEE J. Emerg. Sel. Topics Power Electron., 2021
 
-[MDPI  2021]
+[MDPI 2021]
 :   P. Czyz, P. Papamanolis, F. Trunas Bruguera, **T. Guillod**, F. Krismer, V. Lazarevic, J. Huber J. W. Kolar, "Load-Independent Voltage Balancing of Multi-Level Flying Capacitor Converters in Quasi-2-Level Operation", MDPI Electronics, 2021
 
 [JESTPE 2021]
@@ -139,16 +142,16 @@ Peer-Reviewed Scientific Journal Papers
 [TPEL 2020]
 :   P. Papamanolis, **T. Guillod**, F. Krismer J. W. Kolar, "Transient Calorimetric Measurement of Ferrite Core Losses up to 50MHz", IEEE Trans. Power Electron., 2021
 
-[OJPEL  2020]
+[OJPEL 2020]
 :   P. Papamanolis, **T. Guillod**, F. Krismer J. W. Kolar, "Minimum Loss Operation and Optimal Design of High-Frequency Inductors for Defined Core and Litz Wire", IEEE Open Access Journal of Power Electronics, 2020
 
-[OJPEL  2020]
+[OJPEL 2020]
 :   **T. Guillod**, P. Papamanolis J. W. Kolar, "Artificial Neural Network (ANN) Based Fast and Accurate Inductor Modeling and Design", IEEE Open Access Journal of Power Electronics, 2020
 
 [CPSS 2020]
 :   **T. Guillod** and J. W. Kolar, "Medium-Frequency Transformer Scaling Laws: Derivation, Verification, and Critical Analysis", IEEE CPSS Trans. on Power Electron. and App., 2020
 
-[MDPI  2019]
+[MDPI 2019]
 :   R. Färber, **T. Guillod**, F. Krismer, J. W. Kolar C. M. Franck, "Endurance of Polymeric Insulation Foil Exposed to DC-Biased Medium-Frequency Rectangular Pulse Voltage Stress", MDPI Energies, 2019
 
 [JESTPE 2019]
@@ -372,7 +375,7 @@ Open-Source Software
 2016 - 2021
 :   Toolbox for power magnetics: model and optimization.
 
-    MATLAB,  [github.com/otvam/magnetic_components_toolbox_matlab](https://github.com/otvam/magnetic_components_toolbox_matlab)
+    MATLAB, [github.com/otvam/magnetic_components_toolbox_matlab](https://github.com/otvam/magnetic_components_toolbox_matlab)
  
 2019 - 2020
 :   AI-mag - Inductor design with artificial neural networks and the finite element method.

@@ -105,10 +105,10 @@ Science
 
 Computer
 :   Linux, UNIX, Windows, Word, Excel, Powerpoint, Illustrator, LaTeX,\
-    COMSOL, Ansys, Altium Designer, Inventor, Simulink, SPICE, PLECS
+    COMSOL, Ansys EM, Altium, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, PyTorch, TensorFlow, MATLAB, Qt, C, Java, DSP, Bash
+:   Python, PyTorch, HPC, MATLAB, SQL, Qt, C, DSP, Bash
 
 Open-source
 :   Development and maintenance of scientific open-source tools

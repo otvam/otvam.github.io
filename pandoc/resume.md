@@ -104,11 +104,11 @@ Science
     high-frequency measurements, high-voltage testing, machine learning
 
 Computer
-:   Linux, UNIX, Windows, Word, Excel, Powerpoint, Illustrator, LaTeX,\
+:   Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,\
     COMSOL, Ansys EM, Altium, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, PyTorch, HPC, MATLAB, SQL, Qt, C, DSP, Bash
+:   Python, PyTorch, Pandas, HPC, MATLAB, SQL, Qt, C, DSP, Bash
 
 Open-source
 :   Development and maintenance of scientific open-source tools

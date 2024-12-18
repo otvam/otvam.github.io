@@ -1,10 +1,10 @@
-<style type="text/css">
+<style>
 /*
- * Copyright 2013 Christophe-Marie Duquesne
- * Copyright 2021 Thomas Guillod
+ * Copyright 2013-2013 Christophe-Marie Duquesne
+ * Copyright 2021-2024 Thomas Guillod
  *
  * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ * https://creativecommons.org/licenses/by-sa/3.0/
  */
 
 /* Whole document */
@@ -28,7 +28,8 @@ h1 {
 h2 {
     color: #1B2631;
 }
-/* There is a bar just before each category */
+
+/* Bar for the categories */
 h2:before {
     content: "";
     display: inline-block;
@@ -38,7 +39,7 @@ h2:before {
     background-color: #3498DB;
 }
 
-/* Definitions */
+/* Basic formatting */
 dt {
     float: left;
     clear: left;
@@ -56,13 +57,11 @@ p {
     margin-top:0;
     margin-bottom:7px;
 }
-
-/* Blockquotes */
 blockquote {
     text-align: center
 }
 
-/* Links */
+/* Link formatting */
 a {
     text-decoration: none;
     color: #3498DB;
@@ -72,15 +71,15 @@ a:hover, a:active {
     text-decoration: none;
 }
 
-/* Horizontal separators */
+/* Structure formatting */
 hr {
     border-width: 0;
     color: #3498DB;
     background-color: #3498DB;
     height: 2px;
 }
-
 table {
     width: 100%;
 }
+
 </style>

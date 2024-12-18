@@ -5,77 +5,103 @@ lang: en-us
 Thomas Guillod / CV
 ===================
 
-----
-
-------------------------         ------------------------------------------------------------
-Location: NH, USA                                                          <guillod@otvam.ch>
-Citizenship: Switzerland         [linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
-Birth year: 1989                                 [github.com/otvam](https://github.com/otvam)
-------------------------         ------------------------------------------------------------
+<br><br>
 
 ----
+
+------------------------         --------------------------------------------------------------------
+Location: NH, USA                                        <guillod@dartmouth.edu> / <guillod@otvam.ch>
+Citizenship: Switzerland         [https://linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
+Birth year: 1989                                 [https://github.com/otvam](https://github.com/otvam)
+------------------------         --------------------------------------------------------------------
+
+----
+
+<br><br>
 
 Work Experience
 ---------------
 
 04.2021 - current
-:   **Researcher**, Thayer School of Engineering, Dartmouth College, NH, USA
+:   **Associate Researcher**, Thayer School of Engineering, Dartmouth College, NH, USA
 
-    *Modeling techniques for high-performance ferrite materials and HF inductors*
-
+    Research group: Prof. Charles R. Sullivan
+    
+    *Modeling techniques for high-performance ferrite materials*<br>
+    *Characterization and impact of large-signal dielectric effects in ferrite materials*<br>
+    *Free-shape optimization of very high-frequency air-core inductors*<br>
+    
 07.2020 - 06.2021
 :   **Independent Engineering Consultant**, otvam consulting, Zurich, Switzerland
 
-    *Magnetic component design, converter optimization, dielectric barrier discharges*
+    *Magnetic component design and converter optimization*<br>
+    *Optimization of power supplies for high-power plasma*<br>
+    *Design of high-power air-core transformers and resonant tanks*<br>
+    *Management of contracts, intellectual property, and taxes*<br>
  
 11.2018 - 07.2020
-:   **Postdoctoral Researcher**, ETH Zurich, Switzerland, PES Lab.
-
-    *Medium-voltage and/or high-frequency magnetics, machine learning, thesis co-supervision*
- 
-09.2013 - 11.2018
-:   **Research & Teaching Assistant**, ETH Zurich, Switzerland, PES Lab.
-
-    *Design and construction of medium voltage DC-DC converters, teaching*
- 
-04.2013 - 07.2013
-:   **Research Assistant**, ETH Zurich, Switzerland, High Voltage Lab.
-
-    *Study of high voltage corona discharges with mixed AC/DC voltages*
- 
-09.2011 - 12.2011
-:   **Intern**, Bombardier Transport, Propulsion and Controls, Zurich, Switzerland
-
-    *Development of traction chains of high-speed trains (transformer and converter)*
+:   **Postdoctoral Researcher**, ETH Zurich, Switzerland
     
+    Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.
+     
+    *Establishing a new research direction in machine learning*<br>
+    *Development of calorimetric measurement techniques for magnetic materials*<br>
+    *Involvement in the co-supervision of two Ph.D. projects*<br>
+
+09.2013 - 11.2018
+:   **Research & Teaching Assistant**, ETH Zurich, Switzerland
+
+    Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.
+
+    *Design of highly efficient medium-voltage / medium-frequency transformers*<br>
+    *Completion of the first 99% efficient 10kV SiC-based isolated DC-DC converter*<br>
+    *Teaching assistant, student thesis supervision, and lecture coordination*<br>
+    
+04.2013 - 07.2013
+:   **Research Assistant**, ETH Zurich, Switzerland
  
+    Research group: Prof. Christian M. Franck, High Voltage Lab.
+    
+    *Study of high voltage corona discharges with mixed AC/DC voltages*
+     
+09.2011 - 12.2011
+:   **Intern**, Bombardier Transportation, Zurich, Switzerland
+
+    Division: Converter Engineering, Propulsion, and Controls
+    
+    *Development of traction chains of high-speed trains (transformer and converter)*
+
 08.2008 - 09.2009
 :   **Teacher Substitute**, CIFOM-ET, Le Locle, Switzerland
 
     *Mathematics and physics teaching at a technical high school*
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 Education
 ---------
-
 
 09.2013 - 11.2018
 :   **Doctorate**, ETH Zurich, Switzerland, Power Electronic Systems Lab.
 
     *Modeling and Design of Medium-Voltage Medium-Frequency Transformers*
  
-02.2011 - 03.2013
-:   **Master of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.
+    Advisor: Prof. Johann W. Kolar
 
-    *Focus on numerical methods, field theory, and high voltage technology*
-    
-    *Overall grade point average: 5.8 out of 6.0 (with distinction)*
- 
- 
 09.2012 - 03.2013
 :   **Master Thesis**, ETH Zurich, Switzerland, High Voltage Lab. (with Swissgrid)
 
     *Simulation of AC/DC Hybrid Overhead Lines*
  
+     Advisor: Prof. Christian M. Franck
+     
+02.2011 - 03.2013
+:   **Master of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.
+
+    *Focus area: numerical methods, field theory, and high voltage technology*
+    
+    *Overall grade point average: 5.8 out of 6.0 (with distinction)*
+     
 09.2007 - 02.2011
 :   **Bachelor of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.
 
@@ -108,7 +134,7 @@ Computer
     COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, PyTorch, Pandas, HPC, MATLAB, SQL, Qt, C, DSP, Bash
+:   Python, MATLAB, C, PyTorch, Pandas, SQL, Qt, DSP, HPC, Bash
 
 Open-source
 :   Development and maintenance of scientific open-source tools
@@ -117,6 +143,9 @@ Open-source
 
 Peer-Reviewed Scientific Journal Papers
 ---------------------------------------
+
+[OJPEL 2024]
+:   M. Chen, H. Li, S. Wang, **T. Guillod**, et al., "MagNet Challenge for Data-Driven Power Magnetics Modeling", IEEE Open Access Journal of Power Electronics, 2024
 
 [TPEL 2024]
 :   S. Wang, H. Li, D. Serrano, **T. Guillod**, J. Li, C. R. Sullivan, M. Chen, "A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer", IEEE Trans. Power Electron., 2024
@@ -172,6 +201,8 @@ Peer-Reviewed Scientific Journal Papers
 [ELEN 2017]
 :   R. Bosshard, **T. Guillod**, J. W. Kolar, "Electromagnetic Field Patterns and Energy Flux of Efficiency Optimal Inductive Power Transfer Systems", Springer / Electrical Engineering, 2017
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 [JESTPE 2017]
 :   **T. Guillod**, F. Krismer, J. W. Kolar, "Protection of MV Converters in the Grid: The Case of MV/LV Solid-State Transformers", IEEE J. Emerg. Sel. Topics Power Electron., 2017
 
@@ -184,9 +215,7 @@ Peer-Reviewed Scientific Journal Papers
 [TPS 2013]
 :   D. Gerber, **T. Guillod**, J. Biela R. Leutwyler, "Gate Unit with Improved Short Circuit Detection and Turn-Off Capability for 4.5kV Press-Pack IGBTs Operated at 4kA Pulse Current", IEEE Trans. Plasma Sci., 2013
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
-Peer-reviewed International Conference Proceedings
+Peer-Reviewed International Conference Proceedings
 --------------------------------------------------
 
 [APEC 2024]
@@ -234,6 +263,8 @@ Peer-reviewed International Conference Proceedings
 [ECCE USA 2016]
 :   **T. Guillod**, R. Färber, F. Krismer, C. M. Franck, J. W. Kolar, "Computation and Analysis of Dielectric Losses in MV Power Electronic Converter Insulation", IEEE ECCE, USA, 2016
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 [IECON 2015]
 :   **T. Guillod**, F. Krismer, R. Färber, C. M. Franck, J. W. Kolar, "Protection of MV/LV Solid-State Transformers in the Distribution Grid", IEEE IECON, Japan, 2015
  
@@ -249,10 +280,8 @@ Peer-reviewed International Conference Proceedings
 [PPC 2011]
 :   D. Gerber, **T. Guillod**, J. Biela, "IGBT Gate-Drive with PCB Rogowski Coil for Improved Short Circuit Detection and Current Turn-Off Capability", IEEE PPC, USA, 2011
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
-Further Scientific Contributions
---------------------------------
+Further Scientific Publications and Presentations
+-------------------------------------------------
 
 [Workshop 2024]
 :   C. R. Sullivan, **T. Guillod**, "Thermal, Scaling and Dielectric Issues in Magnetics Design", PSMA Workshop, High Frequency Power Magnetics, USA, 2024
@@ -281,7 +310,7 @@ Further Scientific Contributions
 [Talk 2020]
 :   **T. Guillod**, J. W. Kolar, "From Brute Force Grid Search to Artificial Intelligence: Which Algorithms for Magnetics Optimization?", APEC PSMA Industry Session, USA, 2020
 
-[Invention 2020]
+[Patent 2020]
 :   P. Czyz, P. Papamanolis, V. Lazarevic, **T. Guillod**, F. Krismer, J.W. Kolar, "Voltage Source Converter Configured to Transition Between at Least Two Voltage Levels", Swedish patent application, 2020
 
 [Workshop 2020]
@@ -299,11 +328,13 @@ Further Scientific Contributions
 [Workshop 2019]
 :   **T. Guillod**, J. W. Kolar, "Dielectric Losses in the Insulation of Dry-Type Medium-Frequency Transformers", ECPE Solid-State Transformer Workshop, Switzerland, 2019
 
-[PhD 2018]
+[PhD Thesis 2018]
 :   **T. Guillod**, "Modeling and Design of Medium-Frequency Transformers for Future Medium-Voltage Power Electronics Interfaces", PhD Thesis, ETH Zurich, 2018
 
 [Talk 2018]
 :   D. Rothmund, **T. Guillod**, D. Bortis, J. W. Kolar, "Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer", IEEC ECCE, USA, 2018
+
+<div style="page-break-after: always; visibility: hidden"></div>
 
 [Workshop 2017]
 :   **T. Guillod**, F. Krismer, J. W. Kolar, "Dielectric Losses: MV/MF Converter Insulation", SCCER FURIES Technical Workshop, Switzerland, 2017
@@ -326,13 +357,14 @@ Further Scientific Contributions
 [Talk 2012]
 :   F. Kehl, **T. Guillod**, "Combined FEM and Analytical Method for the Simulation and Optimization of Planar Dielectric Waveguide Grating Biosensors", Workshop on Numerical Methods for Optical Nano Structures, Switzerland, 2012
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
 Awards & Grants
 ---------------
 
+IEEE OJPEL 2023
+:   IEEE OJPEL Transactions First Prize Award (first author)
+
 IEEE TPEL 2023
-:   IEEE TPEL Transactions First Prize Award
+:   IEEE TPEL Transactions First Prize Award (co-author)
 
 IUCRC PMIC 2023
 :   Power Management Integration Center / NSF IUCRC / Accepted Project
@@ -341,10 +373,10 @@ SNSF PostDoc 2021
 :   Swiss National Science Foundation Mobility Fellowship
 
 IEEE JESTPE 2021
-:   IEEE JESTPE Transactions Second Prize Award
+:   IEEE JESTPE Transactions Second Prize Award (first author)
 
 IEEE JESTPE 2020
-:   IEEE JESTPE Transactions First Prize Award
+:   IEEE JESTPE Transactions First Prize Award (co-author)
 
 IEEE ECCE 2018
 :   Best Paper Award
@@ -365,48 +397,5 @@ IEEE ECCE 2014
 :   Best Overall Student Paper
 
 Electrosuisse 2013
-:   ETG-Innovationspreis Finalist (Electrosuisse)
-
-Open-Source Software
---------------------
-
-2023 - 2024
-:   PyPEEC - FFT/GPU accelerated 3D quasi-magnetostatic PEEC solver.
-
-    Python, [pypeec.otvam.ch](https://pypeec.otvam.ch)
-    
-2016 - 2021
-:   Toolbox for power magnetics: model and optimization.
-
-    MATLAB, [github.com/otvam/magnetic_components_toolbox_matlab](https://github.com/otvam/magnetic_components_toolbox_matlab)
- 
-2019 - 2020
-:   AI-mag - Inductor design with artificial neural networks and the finite element method.
-
-    Python/MATLAB/COMSOL, [ai-mag.github.io](https://ai-mag.github.io)
- 
-2019 - 2020
-:   Toolbox for multi-objective optimization with genetic algorithm
-
-    MATLAB, [github.com/ethz-pes/multi_objective_optimization_matlab](https://github.com/ethz-pes/multi_objective_optimization_matlab)
- 
-2016 - 2020
-:   Computation of Litz wire losses with homogenized parameters
-
-    MATLAB/COMSOL, [github.com/ethz-pes/litz_wire_homogenization_comsol_matlab](https://github.com/ethz-pes/litz_wire_homogenization_comsol_matlab)
- 
-2016 - 2020
-:   Computation of Litz wire losses with FEM and Bessel functions
-
-    MATLAB, [github.com/ethz-pes/litz_wire_losses_fem_matlab](https://github.com/ethz-pes/litz_wire_losses_fem_matlab)
- 
-2016 - 2020
-:   Toolbox for 2D magnetic simulation with the mirroring method
-
-    MATLAB, [github.com/ethz-pes/mirroring_method_matlab](https://github.com/ethz-pes/mirroring_method_matlab)
- 
-2015 - 2020
-:   Library for importing and handling 2D and 3D FEM meshes
-
-    MATLAB, [github.com/otvam/fem_mesh_matlab](https://github.com/otvam/fem_mesh_matlab)
+:   ETG-Innovationspreis Finalist
 

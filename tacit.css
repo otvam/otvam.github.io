@@ -1,0 +1,209 @@
+/*
+ * Copyright 2015-2024 Yegor Bugayenko
+ * Copyright 2024-2024 Thomas Guillod
+ *
+ * This CSS document is delivered to you under the MIT License.
+ * https://opensource.org/license/mit
+*/
+
+body {
+    font: normal 400 normal 1.125rem/1.85625rem system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+code {
+    background: #daf1e0;
+    border-radius: 3.6px;
+    color: #2a6f3b;
+    display: inline-block;
+    line-height: 1.125rem;
+    font-weight: 600;
+    padding: 0.225rem 0.39375rem 0.16875rem;
+}
+code:hover {
+    color: #145023;
+    background: #c0efcc;
+}
+
+mark {
+    background: #ffc;
+    padding: 0 0.225rem;
+}
+
+h1,h2,h3 {
+    color: #000;
+    margin-bottom: 1.125rem;
+}
+
+h1 {
+    font-size: 3.0rem;
+    font-weight: 600;
+    line-height: 3.0rem;
+    margin-top: 1.0rem;
+    margin-bottom: 2.0rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.575rem;
+    font-weight: 600;
+    line-height: 2.1375rem;
+    margin-top: 0.0rem;
+}
+
+h3 {
+    font-size: 1.35rem;
+    line-height: 1.6875rem;
+    margin-top: 0.0rem;
+}
+
+a {
+    color: #275a90;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border-bottom: 1px solid #595959;
+}
+
+em {
+    font-style: italic;
+}
+
+dt,strong,b {
+    font-weight: 600;
+}
+
+* {
+    border: 10;
+    border-collapse: separate;
+    border-spacing: 0;
+    box-sizing: border-box;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+html,body {
+    width: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: #f8f9f9;
+    color: #1a1919;
+    padding: 36px;
+}
+
+p,ul,ol,dl,hr,figure {
+    margin-bottom: 0.85625rem;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+article,header,footer {
+    padding-left: 40.0px;
+    padding-right: 40.0px;
+    padding-top: 20.0px;
+    padding-bottom: 10.0px;
+}
+
+article {
+    background: #fff;
+    margin-bottom: 20px;
+    border: 1px solid #d9d9d9;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin-left: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 9px;
+    margin-right: 9px;
+    vertical-align: middle;
+}
+
+nav ul li:first-child {
+    margin-left: 0;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+ol,ul {
+    margin-left: 31.5px;
+}
+
+li dl,li ol,li ul {
+    margin-bottom: 0;
+}
+
+dl {
+    display: inline-block;
+}
+
+dt {
+    padding: 0 0.125rem;
+}
+
+dd {
+    padding: 0 1.125rem 0.28125rem;
+}
+
+dd+dt {
+    border-top: 0 solid #595959;
+    padding-top: 0.5625rem;
+}
+
+img {
+    height: auto;
+    margin: 0 auto;
+}
+
+figure img {
+    display: block;
+}
+
+@media (max-width: 767px) {
+    body {
+        padding:18px 0;
+    }
+
+    article {
+        border: 0;
+        padding: 18px;
+    }
+
+    header,footer {
+        padding: 18px;
+    }
+
+    section {
+        width: auto;
+    }
+}

@@ -1,22 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ====================== -->
+  <!-- otvam.ch - sitemap.xml -->
+  <!-- ====================== -->
 
-<url>
-  <loc>https://otvam.ch/</loc>
-  <lastmod>2024-12-18</lastmod>
-  <priority>1.00</priority>
-</url>
+  <url>
+    <loc>https://otvam.ch/</loc>
+    <lastmod>2024-12-18</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://otvam.ch/data/cv_guillod.html</loc>
-  <lastmod>2024-12-18</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://otvam.ch/data/cv_guillod.html</loc>
+    <lastmod>2024-12-18</lastmod>
+    <priority>0.80</priority>
+  </url>
 
-<url>
-  <loc>https://otvam.ch/data/cv_guillod.pdf</loc>
-  <lastmod>2024-12-18</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://otvam.ch/data/cv_guillod.pdf</loc>
+    <lastmod>2024-12-18</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>

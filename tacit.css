@@ -147,14 +147,6 @@ nav ul li {
     vertical-align: middle;
 }
 
-nav ul li:first-child {
-    margin-left: 0;
-}
-
-nav ul li:last-child {
-    margin-right: 0;
-}
-
 ol,ul {
     margin-left: 31.5px;
 }

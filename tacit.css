@@ -78,7 +78,7 @@ dt,strong,b {
 }
 
 * {
-    border: 10;
+    border: 0;
     border-collapse: separate;
     border-spacing: 0;
     box-sizing: border-box;

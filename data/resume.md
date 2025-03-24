@@ -126,11 +126,11 @@ Skills
 ------
 
 Science
-:   Numerical analysis, multi-objective optimization, electromagnetism, converter design,\
+:   Numerical analysis, multi-objective optimization, electromagnetism, converter design,<br>
     field simulations, high-frequency measurements, high-voltage testing, machine learning
 
 Computer
-:   Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,\
+:   Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,<br>
     COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
 
 Programming

@@ -3,7 +3,8 @@
 echo "================= CV / pandoc"
 pandoc \
        --standalone \
-       --include-in-header style.css \
+       --embed-resources \
+       --css style.css \
        --from markdown --to html \
        --metadata pagetitle="Thomas Guillod / CV" \
        --output cv_guillod.html resume.md

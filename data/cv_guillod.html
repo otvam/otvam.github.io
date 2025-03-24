@@ -6,98 +6,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Thomas Guillod / CV</title>
   <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-  <style>
-  /*
-   * Copyright 2013-2013 Christophe-Marie Duquesne
-   * Copyright 2021-2024 Thomas Guillod
-   *
-   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
-   * https://creativecommons.org/licenses/by-sa/3.0/
-   */
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 
-  /* Whole document */
-  body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      background: #FFFFFF;
-      padding: 10px 10px 10px 10px;
-  }
-
-  /* Title of the resume */
-  h1 {
-      font-size: 55px;
-      color: #757575;
-      text-align:center;
-      margin-bottom:15px;
-  }
-
-  /* Titles of categories */
-  h2 {
-      color: #1B2631;
-  }
-
-  /* Bar for the categories */
-  h2:before {
-      content: "";
-      display: inline-block;
-      margin-right:1%;
-      width: 19%;
-      height: 10px;
-      background-color: #3498DB;
-  }
-
-  /* Basic formatting */
-  dt {
-      float: left;
-      clear: left;
-      width: 20%;
-      font-weight: bold;
-      text-align: left;
-  }
-  dd {
-      margin-left: 20%;
-      margin-bottom:7px;
-      text-align: justify;
-      text-justify: inter-word;
-  }
-  p {
-      margin-top:0;
-      margin-bottom:7px;
-  }
-  blockquote {
-      text-align: center
-  }
-
-  /* Link formatting */
-  a {
-      text-decoration: none;
-      color: #3498DB;
-  }
-  a:hover, a:active {
-      color: #1B2631;
-      text-decoration: none;
-  }
-
-  /* Structure formatting */
-  hr {
-      border-width: 0;
-      color: #3498DB;
-      background-color: #3498DB;
-      height: 2px;
-  }
-  table {
-      width: 100%;
-  }
-
-  </style>
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <link href="data:text/css,%3Cstyle%3E%0A%0Acode%7Bwhite%2Dspace%3A%20pre%2Dwrap%3B%7D%0Aspan%2Esmallcaps%7Bfont%2Dvariant%3A%20small%2Dcaps%3B%7D%0Aspan%2Eunderline%7Btext%2Ddecoration%3A%20underline%3B%7D%0Adiv%2Ecolumn%7Bdisplay%3A%20inline%2Dblock%3B%20vertical%2Dalign%3A%20top%3B%20width%3A%2050%25%3B%7D%0Adiv%2Ehanging%2Dindent%7Bmargin%2Dleft%3A%201%2E5em%3B%20text%2Dindent%3A%20%2D1%2E5em%3B%7D%0Aul%2Etask%2Dlist%7Blist%2Dstyle%3A%20none%3B%7D%0A%0Abody%20%7B%0Afont%2Dfamily%3A%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20Arial%2C%20sans%2Dserif%3B%0Amax%2Dwidth%3A%20900px%3B%0Amargin%3A%20auto%3B%0Abackground%3A%20%23FFFFFF%3B%0Apadding%3A%2010px%2010px%2010px%2010px%3B%0A%7D%0A%0Ah1%20%7B%0Afont%2Dsize%3A%2055px%3B%0Acolor%3A%20%23757575%3B%0Atext%2Dalign%3Acenter%3B%0Amargin%2Dbottom%3A15px%3B%0A%7D%0A%0Ah2%20%7B%0Acolor%3A%20%231B2631%3B%0A%7D%0A%0Ah2%3Abefore%20%7B%0Acontent%3A%20%22%22%3B%0Adisplay%3A%20inline%2Dblock%3B%0Amargin%2Dright%3A1%25%3B%0Awidth%3A%2019%25%3B%0Aheight%3A%2010px%3B%0Abackground%2Dcolor%3A%20%233498DB%3B%0A%7D%0A%0Adt%20%7B%0Afloat%3A%20left%3B%0Aclear%3A%20left%3B%0Awidth%3A%2020%25%3B%0Afont%2Dweight%3A%20bold%3B%0Atext%2Dalign%3A%20left%3B%0A%7D%0Add%20%7B%0Amargin%2Dleft%3A%2020%25%3B%0Amargin%2Dbottom%3A7px%3B%0Atext%2Dalign%3A%20justify%3B%0Atext%2Djustify%3A%20inter%2Dword%3B%0A%7D%0Ap%20%7B%0Amargin%2Dtop%3A0%3B%0Amargin%2Dbottom%3A7px%3B%0A%7D%0Ablockquote%20%7B%0Atext%2Dalign%3A%20center%0A%7D%0A%0Aa%20%7B%0Atext%2Ddecoration%3A%20none%3B%0Acolor%3A%20%233498DB%3B%0A%7D%0Aa%3Ahover%2C%20a%3Aactive%20%7B%0Acolor%3A%20%231B2631%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0A%0Ahr%20%7B%0Aborder%2Dwidth%3A%200%3B%0Acolor%3A%20%233498DB%3B%0Abackground%2Dcolor%3A%20%233498DB%3B%0Aheight%3A%202px%3B%0A%7D%0Atable%20%7B%0Awidth%3A%20100%25%3B%0A%7D%0A%3C%2Fstyle%3E%0A" rel="stylesheet" />
 </head>
 <body>
 <h1 id="thomas-guillod-cv">Thomas Guillod / CV</h1>
@@ -124,37 +48,67 @@
 <h2 id="work-experience">Work Experience</h2>
 <dl>
 <dt>04.2021 - current</dt>
-<dd><p><strong>Associate Researcher</strong>, Thayer School of Engineering, Dartmouth College, NH, USA</p>
+<dd>
+<p><strong>Associate Researcher</strong>, Thayer School of Engineering,
+Dartmouth College, NH, USA</p>
 <p>Research group: Prof. Charles R. Sullivan</p>
-<p><em>Modeling techniques for high-performance ferrite materials</em><br> <em>Characterization and impact of large-signal dielectric effects in ferrite materials</em><br> <em>Free-shape optimization of very high-frequency air-core inductors</em><br></p>
+<p><em>Modeling techniques for high-performance ferrite
+materials</em><br> <em>Characterization and impact of large-signal
+dielectric effects in ferrite materials</em><br> <em>Free-shape
+optimization of very high-frequency air-core inductors</em><br></p>
 </dd>
 <dt>07.2020 - 06.2021</dt>
-<dd><p><strong>Independent Engineering Consultant</strong>, otvam consulting, Zurich, Switzerland</p>
-<p><em>Magnetic component design and converter optimization</em><br> <em>Optimization of power supplies for high-power plasma</em><br> <em>Design of high-power air-core transformers and resonant tanks</em><br> <em>Management of contracts, intellectual property, and taxes</em><br></p>
+<dd>
+<p><strong>Independent Engineering Consultant</strong>, otvam
+consulting, Zurich, Switzerland</p>
+<p><em>Magnetic component design and converter optimization</em><br>
+<em>Optimization of power supplies for high-power plasma</em><br>
+<em>Design of high-power air-core transformers and resonant
+tanks</em><br> <em>Management of contracts, intellectual property, and
+taxes</em><br></p>
 </dd>
 <dt>11.2018 - 07.2020</dt>
-<dd><p><strong>Postdoctoral Researcher</strong>, ETH Zurich, Switzerland</p>
-<p>Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.</p>
-<p><em>Establishing a new research direction in machine learning</em><br> <em>Development of calorimetric measurement techniques for magnetic materials</em><br> <em>Involvement in the co-supervision of two Ph.D. projects</em><br></p>
+<dd>
+<p><strong>Postdoctoral Researcher</strong>, ETH Zurich, Switzerland</p>
+<p>Research group: Prof. Johann W. Kolar, Power Electronic Systems
+Lab.</p>
+<p><em>Establishing a new research direction in machine
+learning</em><br> <em>Development of calorimetric measurement techniques
+for magnetic materials</em><br> <em>Involvement in the co-supervision of
+two Ph.D. projects</em><br></p>
 </dd>
 <dt>09.2013 - 11.2018</dt>
-<dd><p><strong>Research &amp; Teaching Assistant</strong>, ETH Zurich, Switzerland</p>
-<p>Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.</p>
-<p><em>Design of highly efficient medium-voltage / medium-frequency transformers</em><br> <em>Completion of the first 99% efficient 10kV SiC-based isolated DC-DC converter</em><br> <em>Teaching assistant, student thesis supervision, and lecture coordination</em><br></p>
+<dd>
+<p><strong>Research &amp; Teaching Assistant</strong>, ETH Zurich,
+Switzerland</p>
+<p>Research group: Prof. Johann W. Kolar, Power Electronic Systems
+Lab.</p>
+<p><em>Design of highly efficient medium-voltage / medium-frequency
+transformers</em><br> <em>Completion of the first 99% efficient 10kV
+SiC-based isolated DC-DC converter</em><br> <em>Teaching assistant,
+student thesis supervision, and lecture coordination</em><br></p>
 </dd>
 <dt>04.2013 - 07.2013</dt>
-<dd><p><strong>Research Assistant</strong>, ETH Zurich, Switzerland</p>
+<dd>
+<p><strong>Research Assistant</strong>, ETH Zurich, Switzerland</p>
 <p>Research group: Prof. Christian M. Franck, High Voltage Lab.</p>
-<p><em>Study of high voltage corona discharges with mixed AC/DC voltages</em></p>
+<p><em>Study of high voltage corona discharges with mixed AC/DC
+voltages</em></p>
 </dd>
 <dt>09.2011 - 12.2011</dt>
-<dd><p><strong>Intern</strong>, Bombardier Transportation, Zurich, Switzerland</p>
+<dd>
+<p><strong>Intern</strong>, Bombardier Transportation, Zurich,
+Switzerland</p>
 <p>Division: Converter Engineering, Propulsion, and Controls</p>
-<p><em>Development of traction chains of high-speed trains (transformer and converter)</em></p>
+<p><em>Development of traction chains of high-speed trains (transformer
+and converter)</em></p>
 </dd>
 <dt>08.2008 - 09.2009</dt>
-<dd><p><strong>Teacher Substitute</strong>, CIFOM-ET, Le Locle, Switzerland</p>
-<p><em>Mathematics and physics teaching at a technical high school</em></p>
+<dd>
+<p><strong>Teacher Substitute</strong>, CIFOM-ET, Le Locle,
+Switzerland</p>
+<p><em>Mathematics and physics teaching at a technical high
+school</em></p>
 </dd>
 </dl>
 <div style="page-break-after: always; visibility: hidden">
@@ -163,22 +117,33 @@
 <h2 id="education">Education</h2>
 <dl>
 <dt>09.2013 - 11.2018</dt>
-<dd><p><strong>Doctorate</strong>, ETH Zurich, Switzerland, Power Electronic Systems Lab.</p>
-<p><em>Modeling and Design of Medium-Voltage Medium-Frequency Transformers</em></p>
+<dd>
+<p><strong>Doctorate</strong>, ETH Zurich, Switzerland, Power Electronic
+Systems Lab.</p>
+<p><em>Modeling and Design of Medium-Voltage Medium-Frequency
+Transformers</em></p>
 <p>Advisor: Prof. Johann W. Kolar</p>
 </dd>
 <dt>09.2012 - 03.2013</dt>
-<dd><p><strong>Master Thesis</strong>, ETH Zurich, Switzerland, High Voltage Lab. (with Swissgrid)</p>
+<dd>
+<p><strong>Master Thesis</strong>, ETH Zurich, Switzerland, High Voltage
+Lab. (with Swissgrid)</p>
 <p><em>Simulation of AC/DC Hybrid Overhead Lines</em></p>
 <p>Advisor: Prof. Christian M. Franck</p>
 </dd>
 <dt>02.2011 - 03.2013</dt>
-<dd><p><strong>Master of Science</strong>, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.</p>
-<p><em>Focus area: numerical methods, field theory, and high voltage technology</em></p>
-<p><em>Overall grade point average: 5.8 out of 6.0 (with distinction)</em></p>
+<dd>
+<p><strong>Master of Science</strong>, ETH Zurich, Switzerland,
+Electrical Engineering and Inf. Tech.</p>
+<p><em>Focus area: numerical methods, field theory, and high voltage
+technology</em></p>
+<p><em>Overall grade point average: 5.8 out of 6.0 (with
+distinction)</em></p>
 </dd>
 <dt>09.2007 - 02.2011</dt>
-<dd><p><strong>Bachelor of Science</strong>, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.</p>
+<dd>
+<p><strong>Bachelor of Science</strong>, ETH Zurich, Switzerland,
+Electrical Engineering and Inf. Tech.</p>
 <p><em>Major: Energy and Power Electronics</em></p>
 <p><em>Overall grade point average: 5.5 out of 6.0 (very good)</em></p>
 </dd>
@@ -186,300 +151,553 @@
 <h2 id="languages">Languages</h2>
 <dl>
 <dt>French</dt>
-<dd>Native speaker
+<dd>
+Native speaker
 </dd>
 <dt>English</dt>
-<dd>Fluent (C1) - Master and PhD studies in English, many publications in English
+<dd>
+Fluent (C1) - Master and PhD studies in English, many publications in
+English
 </dd>
 <dt>German</dt>
-<dd>Fluent (C1) - Bachelor studies in German, Intensivkurs Deutsch als Fremdsprache
+<dd>
+Fluent (C1) - Bachelor studies in German, Intensivkurs Deutsch als
+Fremdsprache
 </dd>
 </dl>
 <h2 id="skills">Skills</h2>
 <dl>
 <dt>Science</dt>
-<dd>Numerical analysis, multi-objective optimization, electromagnetism, converter design,<br />
-field simulations, high-frequency measurements, high-voltage testing, machine learning
+<dd>
+Numerical analysis, multi-objective optimization, electromagnetism,
+converter design,<br />
+field simulations, high-frequency measurements, high-voltage testing,
+machine learning
 </dd>
 <dt>Computer</dt>
-<dd>Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,<br />
+<dd>
+Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator,
+LaTeX,<br />
 COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
 </dd>
 <dt>Programming</dt>
-<dd>Python, MATLAB, C, PyTorch, Pandas, SQL, Qt, DSP, HPC, Bash
+<dd>
+Python, MATLAB, C, PyTorch, Pandas, SQL, Qt, DSP, HPC, Bash
 </dd>
 <dt>Open-source</dt>
-<dd>Development and maintenance of scientific open-source tools
+<dd>
+Development and maintenance of scientific open-source tools
 </dd>
 </dl>
 <div style="page-break-after: always; visibility: hidden">
 
 </div>
-<h2 id="peer-reviewed-scientific-journal-papers">Peer-Reviewed Scientific Journal Papers</h2>
+<h2 id="peer-reviewed-scientific-journal-papers">Peer-Reviewed
+Scientific Journal Papers</h2>
 <dl>
 <dt>[OJPEL 2024]</dt>
-<dd>M. Chen, H. Li, S. Wang, <strong>T. Guillod</strong>, et al., “MagNet Challenge for Data-Driven Power Magnetics Modeling”, IEEE Open Access Journal of Power Electronics, 2024
+<dd>
+M. Chen, H. Li, S. Wang, <strong>T. Guillod</strong>, et al., “MagNet
+Challenge for Data-Driven Power Magnetics Modeling”, IEEE Open Access
+Journal of Power Electronics, 2024
 </dd>
 <dt>[TPEL 2024]</dt>
-<dd>S. Wang, H. Li, D. Serrano, <strong>T. Guillod</strong>, J. Li, C. R. Sullivan, M. Chen, “A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer”, IEEE Trans. Power Electron., 2024
+<dd>
+S. Wang, H. Li, D. Serrano, <strong>T. Guillod</strong>, J. Li, C. R.
+Sullivan, M. Chen, “A Simplified Dc-Bias Injection Method for
+Characterizing Power Magnetics using a Voltage Mirror Transformer”, IEEE
+Trans. Power Electron., 2024
 </dd>
 <dt>[TPEL 2023]</dt>
-<dd>D. Serrano, H. Li, S. Wang, <strong>T. Guillod</strong>, M. Luo, V. Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen, “Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics”, IEEE Trans. Power Electron., 2023
+<dd>
+D. Serrano, H. Li, S. Wang, <strong>T. Guillod</strong>, M. Luo, V.
+Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen, “Why MagNet:
+Quantifying the Complexity of Modeling Power Magnetic Material
+Characteristics”, IEEE Trans. Power Electron., 2023
 </dd>
 <dt>[TPEL 2023]</dt>
-<dd>H. Li, D. Serrano, <strong>T. Guillod</strong>, S. Wang, E. Dogariu, A. Nadler, M. Luo, V. Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen, “How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics”, IEEE Trans. Power Electron., 2023
+<dd>
+H. Li, D. Serrano, <strong>T. Guillod</strong>, S. Wang, E. Dogariu, A.
+Nadler, M. Luo, V. Bansal, N. K. Jha, Y. Chen, C. R. Sullivan, M. Chen,
+“How MagNet: Machine Learning Framework for Modeling Power Magnetic
+Material Characteristics”, IEEE Trans. Power Electron., 2023
 </dd>
 <dt>[JESTPE 2021]</dt>
-<dd><strong>T. Guillod</strong>, P. Czyz, J. W. Kolar, “Geometrical Optimization of Medium-Frequency Air-Core Transformers for DCX Applications”, IEEE J. Emerg. Sel. Topics Power Electron., 2021
+<dd>
+<strong>T. Guillod</strong>, P. Czyz, J. W. Kolar, “Geometrical
+Optimization of Medium-Frequency Air-Core Transformers for DCX
+Applications”, IEEE J. Emerg. Sel. Topics Power Electron., 2021
 </dd>
 <dt>[JESTPE 2021]</dt>
-<dd>P. Czyz, <strong>T. Guillod</strong>, D. Zhang, F. Krismer, R. Färber, J. Huber, C. M. Franck, J. W. Kolar, “Analysis of the Performance Limits of 166 kW / 7 kV Air-Core and Magnetic-Core Medium-Voltage Medium-Frequency Transformers for 1:1-DCX Applications”, IEEE J. Emerg. Sel. Topics Power Electron., 2021
+<dd>
+P. Czyz, <strong>T. Guillod</strong>, D. Zhang, F. Krismer, R. Färber,
+J. Huber, C. M. Franck, J. W. Kolar, “Analysis of the Performance Limits
+of 166 kW / 7 kV Air-Core and Magnetic-Core Medium-Voltage
+Medium-Frequency Transformers for 1:1-DCX Applications”, IEEE J. Emerg.
+Sel. Topics Power Electron., 2021
 </dd>
 <dt>[MDPI 2021]</dt>
-<dd>P. Czyz, P. Papamanolis, F. Trunas Bruguera, <strong>T. Guillod</strong>, F. Krismer, V. Lazarevic, J. Huber, J. W. Kolar, “Load-Independent Voltage Balancing of Multi-Level Flying Capacitor Converters in Quasi-2-Level Operation”, MDPI Electronics, 2021
+<dd>
+P. Czyz, P. Papamanolis, F. Trunas Bruguera, <strong>T.
+Guillod</strong>, F. Krismer, V. Lazarevic, J. Huber, J. W. Kolar,
+“Load-Independent Voltage Balancing of Multi-Level Flying Capacitor
+Converters in Quasi-2-Level Operation”, MDPI Electronics, 2021
 </dd>
 <dt>[JESTPE 2021]</dt>
-<dd>P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J. Huber, J. W. Kolar, “Design and Experimental Analysis of 166 kW Medium-Voltage Medium-Frequency Air-Core Transformer for 1:1-DCX Applications”, IEEE J. Emerg. Sel. Topics Power Electron., 2021
+<dd>
+P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J. Huber, J. W. Kolar,
+“Design and Experimental Analysis of 166 kW Medium-Voltage
+Medium-Frequency Air-Core Transformer for 1:1-DCX Applications”, IEEE J.
+Emerg. Sel. Topics Power Electron., 2021
 </dd>
 <dt>[TPEL 2021]</dt>
-<dd>P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Transient Calorimetric Measurement of Ferrite Core Losses up to 50MHz”, IEEE Trans. Power Electron., 2021
+<dd>
+P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar,
+“Transient Calorimetric Measurement of Ferrite Core Losses up to 50MHz”,
+IEEE Trans. Power Electron., 2021
 </dd>
 <dt>[OJPEL 2020]</dt>
-<dd>P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Minimum Loss Operation and Optimal Design of High-Frequency Inductors for Defined Core and Litz Wire”, IEEE Open Access Journal of Power Electronics, 2020
+<dd>
+P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar,
+“Minimum Loss Operation and Optimal Design of High-Frequency Inductors
+for Defined Core and Litz Wire”, IEEE Open Access Journal of Power
+Electronics, 2020
 </dd>
 <dt>[OJPEL 2020]</dt>
-<dd><strong>T. Guillod</strong>, P. Papamanolis, J. W. Kolar, “Artificial Neural Network (ANN) Based Fast and Accurate Inductor Modeling and Design”, IEEE Open Access Journal of Power Electronics, 2020
+<dd>
+<strong>T. Guillod</strong>, P. Papamanolis, J. W. Kolar, “Artificial
+Neural Network (ANN) Based Fast and Accurate Inductor Modeling and
+Design”, IEEE Open Access Journal of Power Electronics, 2020
 </dd>
 <dt>[CPSS 2020]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “Medium-Frequency Transformer Scaling Laws: Derivation, Verification, and Critical Analysis”, IEEE CPSS Trans. on Power Electron. and App., 2020
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “Medium-Frequency Transformer
+Scaling Laws: Derivation, Verification, and Critical Analysis”, IEEE
+CPSS Trans. on Power Electron. and App., 2020
 </dd>
 <dt>[MDPI 2019]</dt>
-<dd>R. Färber, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, C. M. Franck, “Endurance of Polymeric Insulation Foil Exposed to DC-Biased Medium-Frequency Rectangular Pulse Voltage Stress”, MDPI Energies, 2019
+<dd>
+R. Färber, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, C. M.
+Franck, “Endurance of Polymeric Insulation Foil Exposed to DC-Biased
+Medium-Frequency Rectangular Pulse Voltage Stress”, MDPI Energies, 2019
 </dd>
 <dt>[JESTPE 2019]</dt>
-<dd><strong>T. Guillod</strong>, R. Färber, F. Krismer, C. M. Franck, J. W. Kolar, “Dielectric Losses in Dry-Type Insulation of Medium-Voltage Power Electronic Converters”, IEEE J. Emerg. Sel. Topics Power Electron., 2019
+<dd>
+<strong>T. Guillod</strong>, R. Färber, F. Krismer, C. M. Franck, J. W.
+Kolar, “Dielectric Losses in Dry-Type Insulation of Medium-Voltage Power
+Electronic Converters”, IEEE J. Emerg. Sel. Topics Power Electron., 2019
 </dd>
 <dt>[TPEL 2019]</dt>
-<dd><strong>T. Guillod</strong>, D. Rothmund, J. W. Kolar, “Active Magnetizing Current Splitting ZVS Modulation of a 7kV/400V DC Transformer”, IEEE Trans. Power Electron., 2019
+<dd>
+<strong>T. Guillod</strong>, D. Rothmund, J. W. Kolar, “Active
+Magnetizing Current Splitting ZVS Modulation of a 7kV/400V DC
+Transformer”, IEEE Trans. Power Electron., 2019
 </dd>
 <dt>[JESTPE 2019]</dt>
-<dd>D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “99% Efficient 10kV SiC-Based 7kV/400V DC-Transformer for Future Data Centers”, IEEE J. Emerg. Sel. Topics Power Electron., 2019.
+<dd>
+D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “99%
+Efficient 10kV SiC-Based 7kV/400V DC-Transformer for Future Data
+Centers”, IEEE J. Emerg. Sel. Topics Power Electron., 2019.
 </dd>
+</dl>
+<div style="page-break-after: always; visibility: hidden">
+
+</div>
+<dl>
 <dt>[JESTPE 2019]</dt>
-<dd>D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “99.1% Efficient 10kV SiC-Based Medium Voltage ZVS Bidirectional Single-Phase PFC AC/DC Stage”, IEEE J. Emerg. Sel. Topics Power Electron., 2019.
+<dd>
+D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “99.1%
+Efficient 10kV SiC-Based Medium Voltage ZVS Bidirectional Single-Phase
+PFC AC/DC Stage”, IEEE J. Emerg. Sel. Topics Power Electron., 2019.
 </dd>
 <dt>[ELEN 2018]</dt>
-<dd><strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Magnetic Equivalent Circuit of MF Transformers: Modeling and Parameter Uncertainties”, Springer / Electrical Engineering, 2018
+<dd>
+<strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Magnetic
+Equivalent Circuit of MF Transformers: Modeling and Parameter
+Uncertainties”, Springer / Electrical Engineering, 2018
 </dd>
 <dt>[ELEN 2017]</dt>
-<dd>R. Bosshard, <strong>T. Guillod</strong>, J. W. Kolar, “Electromagnetic Field Patterns and Energy Flux of Efficiency Optimal Inductive Power Transfer Systems”, Springer / Electrical Engineering, 2017
+<dd>
+R. Bosshard, <strong>T. Guillod</strong>, J. W. Kolar, “Electromagnetic
+Field Patterns and Energy Flux of Efficiency Optimal Inductive Power
+Transfer Systems”, Springer / Electrical Engineering, 2017
 </dd>
-</dl>
-<div style="page-break-after: always; visibility: hidden">
-
-</div>
-<dl>
 <dt>[JESTPE 2017]</dt>
-<dd><strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Protection of MV Converters in the Grid: The Case of MV/LV Solid-State Transformers”, IEEE J. Emerg. Sel. Topics Power Electron., 2017
+<dd>
+<strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Protection of MV
+Converters in the Grid: The Case of MV/LV Solid-State Transformers”,
+IEEE J. Emerg. Sel. Topics Power Electron., 2017
 </dd>
 <dt>[TPWRD 2014]</dt>
-<dd><strong>T. Guillod</strong>, M. Pfeiffer, C. M. Franck, “Improved Coupled Ion-Flow Field Calculation Method for AC/DC Hybrid Overhead Power Lines”, IEEE Trans. Power Del., 2014
+<dd>
+<strong>T. Guillod</strong>, M. Pfeiffer, C. M. Franck, “Improved
+Coupled Ion-Flow Field Calculation Method for AC/DC Hybrid Overhead
+Power Lines”, IEEE Trans. Power Del., 2014
 </dd>
 <dt>[JPIER 2013]</dt>
-<dd><strong>T. Guillod</strong>, F. Kehl, C. Hafner, “FEM-based Method for the Simulation of Dielectric Waveguide Grating Biosensors”, Progress in Electromagnetics Research, 2013
+<dd>
+<strong>T. Guillod</strong>, F. Kehl, C. Hafner, “FEM-based Method for
+the Simulation of Dielectric Waveguide Grating Biosensors”, Progress in
+Electromagnetics Research, 2013
 </dd>
 <dt>[TPS 2013]</dt>
-<dd>D. Gerber, <strong>T. Guillod</strong>, J. Biela R. Leutwyler, “Gate Unit with Improved Short Circuit Detection and Turn-Off Capability for 4.5kV Press-Pack IGBTs Operated at 4kA Pulse Current”, IEEE Trans. Plasma Sci., 2013
+<dd>
+D. Gerber, <strong>T. Guillod</strong>, J. Biela R. Leutwyler, “Gate
+Unit with Improved Short Circuit Detection and Turn-Off Capability for
+4.5kV Press-Pack IGBTs Operated at 4kA Pulse Current”, IEEE Trans.
+Plasma Sci., 2013
 </dd>
 </dl>
-<h2 id="peer-reviewed-international-conference-proceedings">Peer-Reviewed International Conference Proceedings</h2>
+<h2 id="peer-reviewed-international-conference-proceedings">Peer-Reviewed
+International Conference Proceedings</h2>
 <dl>
-<dt>[APEC 2024]</dt>
-<dd><strong>T. Guillod</strong>, W. V. R. Roberts, C. R. Sullivan, “Characterization and Impact of Large-Signal Dielectric Properties in MnZn Ferrites”, IEEE APEC, USA, 2024
+<dt>[APEC 2025]</dt>
+<dd>
+<strong>T. Guillod</strong>, C. R. Sullivan, “Free-Shape Optimization of
+VHF Air-Core Inductors using a Constraint-Aware Genetic Algorithm”, IEEE
+APEC, USA, 2025
 </dd>
 <dt>[APEC 2024]</dt>
-<dd>E. Deleu, H. Li, J. Li, W. Lee, <strong>T. Guillod</strong>, C. R. Sullivan, S. Wang, M. Chen, “Multi-Material Power Magnetics Modeling with a Modular and Scalable Machine Learning Framework”, IEEE APEC, USA, 2024
+<dd>
+<strong>T. Guillod</strong>, W. V. R. Roberts, C. R. Sullivan,
+“Characterization and Impact of Large-Signal Dielectric Properties in
+MnZn Ferrites”, IEEE APEC, USA, 2024
+</dd>
+<dt>[APEC 2024]</dt>
+<dd>
+E. Deleu, H. Li, J. Li, W. Lee, <strong>T. Guillod</strong>, C. R.
+Sullivan, S. Wang, M. Chen, “Multi-Material Power Magnetics Modeling
+with a Modular and Scalable Machine Learning Framework”, IEEE APEC, USA,
+2024
 </dd>
 <dt>[ICEMS 2023]</dt>
-<dd>T. Ohno, S. Miric, <strong>T. Guillod</strong>, F. Krismer, J. Huber, J. W. Kolar, “New Triple-Output Quad-Active-Bridge DC/DC Converter Employing a Four-Leg Inverter Input Stage”, IEEE ICEMS, China, 2023
+<dd>
+T. Ohno, S. Miric, <strong>T. Guillod</strong>, F. Krismer, J. Huber, J.
+W. Kolar, “New Triple-Output Quad-Active-Bridge DC/DC Converter
+Employing a Four-Leg Inverter Input Stage”, IEEE ICEMS, China, 2023
 </dd>
 <dt>[APEC 2023]</dt>
-<dd><strong>T. Guillod</strong>, J. Lee, H. Li, S. Wang, M. Chen, C. R. Sullivan, “Calculation of Ferrite Core Losses with Arbitrary Waveforms Using the Composite Waveform Hypothesis”, IEEE APEC, USA, 2023
+<dd>
+<strong>T. Guillod</strong>, J. Lee, H. Li, S. Wang, M. Chen, C. R.
+Sullivan, “Calculation of Ferrite Core Losses with Arbitrary Waveforms
+Using the Composite Waveform Hypothesis”, IEEE APEC, USA, 2023
 </dd>
 <dt>[APEC 2023]</dt>
-<dd>H. Li, D. Serrano, S. Wang, <strong>T. Guillod</strong>, M. Luo, M. Chen, “Predicting the B-H Loops of Power Magnetics with Transformer-Based Encoder-Projector-Decoder Neural Network Architecture”, IEEE APEC, USA, 2023
+<dd>
+H. Li, D. Serrano, S. Wang, <strong>T. Guillod</strong>, M. Luo, M.
+Chen, “Predicting the B-H Loops of Power Magnetics with
+Transformer-Based Encoder-Projector-Decoder Neural Network
+Architecture”, IEEE APEC, USA, 2023
 </dd>
 <dt>[APEC 2023]</dt>
-<dd>S. Wang, D. Serrano, H. Li, A. Lin, <strong>T. Guillod</strong>, M. Luo, C. R. Sullivan, M. Chen, “A Simplified DC-Bias Injection Method with Mirror Transformer for Magnetic Material Characterization”, IEEE APEC, USA, 2023
+<dd>
+S. Wang, D. Serrano, H. Li, A. Lin, <strong>T. Guillod</strong>, M. Luo,
+C. R. Sullivan, M. Chen, “A Simplified DC-Bias Injection Method with
+Mirror Transformer for Magnetic Material Characterization”, IEEE APEC,
+USA, 2023
 </dd>
 <dt>[COMPEL 2022]</dt>
-<dd>D. Serrano, H. Li, <strong>T. Guillod</strong>, S. Wang, M. Luo, C. R. Sullivan, M. Chen, “Neural Network as Datasheet: Modeling B-H Loops of Power Magnetics with Sequence-to-Sequence LSTM Encoder-Decoder Architecture”, IEEE COMPEL, Israel, 2022
+<dd>
+D. Serrano, H. Li, <strong>T. Guillod</strong>, S. Wang, M. Luo, C. R.
+Sullivan, M. Chen, “Neural Network as Datasheet: Modeling B-H Loops of
+Power Magnetics with Sequence-to-Sequence LSTM Encoder-Decoder
+Architecture”, IEEE COMPEL, Israel, 2022
 </dd>
 <dt>[APEC 2022]</dt>
-<dd>H. Li, D. Serrano, <strong>T. Guillod</strong>, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, “MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling”, IEEE APEC, USA, 2022
+<dd>
+H. Li, D. Serrano, <strong>T. Guillod</strong>, E. Dogariu, A. B.
+Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen,
+“MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss
+Modeling”, IEEE APEC, USA, 2022
 </dd>
+</dl>
+<div style="page-break-after: always; visibility: hidden">
+
+</div>
+<dl>
 <dt>[CIPS 2020]</dt>
-<dd>M. Kasper, L. Peluso, G. Deboy, G. Knabben, <strong>T. Guillod</strong>, J. W. Kolar, “Ultra-high Power Density Server Supplies Employing GaN Power Semiconductors and PCB-Integrated Magnetics”, IEEE CIPS, Germany, 2020
+<dd>
+M. Kasper, L. Peluso, G. Deboy, G. Knabben, <strong>T. Guillod</strong>,
+J. W. Kolar, “Ultra-high Power Density Server Supplies Employing GaN
+Power Semiconductors and PCB-Integrated Magnetics”, IEEE CIPS, Germany,
+2020
 </dd>
 <dt>[APEC 2020]</dt>
-<dd>P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Transient Calorimetric Measurement of Ferrite Core Losses”, IEEE APEC, USA, 2020
+<dd>
+P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar,
+“Transient Calorimetric Measurement of Ferrite Core Losses”, IEEE APEC,
+USA, 2020
 </dd>
 <dt>[ECCE Asia 2019]</dt>
-<dd>P. Czyz, P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “New 40kV/300kVA Quasi-2-Level Operated 5-Level Flying Capacitor SiC”Super-Switch" IPM", IEEE ECCE Asia, South Korea, 2018
+<dd>
+P. Czyz, P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W.
+Kolar, “New 40kV/300kVA Quasi-2-Level Operated 5-Level Flying Capacitor
+SiC”Super-Switch” IPM”, IEEE ECCE Asia, South Korea, 2018
 </dd>
 <dt>[ECCE Asia 2018]</dt>
-<dd>P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Exploration of the Design and Performance Space of a High Frequency 166kW/10kV SiC Solid-State Air-Core Transformer”, IEEE ECCE Asia, Japan, 2018
+<dd>
+P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar,
+“Exploration of the Design and Performance Space of a High Frequency
+166kW/10kV SiC Solid-State Air-Core Transformer”, IEEE ECCE Asia, Japan,
+2018
 </dd>
 <dt>[COMPEL 2017]</dt>
-<dd><strong>T. Guillod</strong>, J. Huber, F. Krismer, J. W. Kolar, “Litz Wire Losses: Effects of Twisting Imperfections”, IEEE COMPEL, USA, 2017
+<dd>
+<strong>T. Guillod</strong>, J. Huber, F. Krismer, J. W. Kolar, “Litz
+Wire Losses: Effects of Twisting Imperfections”, IEEE COMPEL, USA, 2017
 </dd>
 <dt>[APEC 2017]</dt>
-<dd><strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Electrical Shielding of MV/MF Transformers Subjected to High dv/dt PWM Voltages”, IEEE APEC, USA, 2017
+<dd>
+<strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Electrical
+Shielding of MV/MF Transformers Subjected to High dv/dt PWM Voltages”,
+IEEE APEC, USA, 2017
 </dd>
 <dt>[ECCE USA 2016]</dt>
-<dd><strong>T. Guillod</strong>, R. Färber, F. Krismer, C. M. Franck, J. W. Kolar, “Computation and Analysis of Dielectric Losses in MV Power Electronic Converter Insulation”, IEEE ECCE, USA, 2016
+<dd>
+<strong>T. Guillod</strong>, R. Färber, F. Krismer, C. M. Franck, J. W.
+Kolar, “Computation and Analysis of Dielectric Losses in MV Power
+Electronic Converter Insulation”, IEEE ECCE, USA, 2016
 </dd>
-</dl>
-<div style="page-break-after: always; visibility: hidden">
-
-</div>
-<dl>
 <dt>[IECON 2015]</dt>
-<dd><strong>T. Guillod</strong>, F. Krismer, R. Färber, C. M. Franck, J. W. Kolar, “Protection of MV/LV Solid-State Transformers in the Distribution Grid”, IEEE IECON, Japan, 2015
+<dd>
+<strong>T. Guillod</strong>, F. Krismer, R. Färber, C. M. Franck, J. W.
+Kolar, “Protection of MV/LV Solid-State Transformers in the Distribution
+Grid”, IEEE IECON, Japan, 2015
 </dd>
 <dt>[APEC 2015]</dt>
-<dd>D. Rothmund, G. Ortiz, <strong>T. Guillod</strong>, J. W. Kolar, “10kV SiC-Based Isolated DC-DC Converter for Medium-Voltage-Connected SSTs”, IEEE APEC, USA, 2015
+<dd>
+D. Rothmund, G. Ortiz, <strong>T. Guillod</strong>, J. W. Kolar, “10kV
+SiC-Based Isolated DC-DC Converter for Medium-Voltage-Connected SSTs”,
+IEEE APEC, USA, 2015
 </dd>
 <dt>[ECCE USA 2014]</dt>
-<dd><strong>T. Guillod</strong>, J. Huber, G. Ortiz, A. De, C. M. Franck, J. W. Kolar, “Characterization of the Voltage and Electric Field Stresses in Multi-Cell Solid-State Transformers”, IEEE ECCE, USA, 2014
+<dd>
+<strong>T. Guillod</strong>, J. Huber, G. Ortiz, A. De, C. M. Franck, J.
+W. Kolar, “Characterization of the Voltage and Electric Field Stresses
+in Multi-Cell Solid-State Transformers”, IEEE ECCE, USA, 2014
 </dd>
 <dt>[CIPS 2012]</dt>
-<dd><strong>T. Guillod</strong>, D. Gerber, J. Biela, A. Müsing, “Design of a PCB Rogowski Coil Based on the PEEC Method”, IEEE CIPS, Germany, 2012
+<dd>
+<strong>T. Guillod</strong>, D. Gerber, J. Biela, A. Müsing, “Design of
+a PCB Rogowski Coil Based on the PEEC Method”, IEEE CIPS, Germany, 2012
 </dd>
 <dt>[PPC 2011]</dt>
-<dd>D. Gerber, <strong>T. Guillod</strong>, J. Biela, “IGBT Gate-Drive with PCB Rogowski Coil for Improved Short Circuit Detection and Current Turn-Off Capability”, IEEE PPC, USA, 2011
+<dd>
+D. Gerber, <strong>T. Guillod</strong>, J. Biela, “IGBT Gate-Drive with
+PCB Rogowski Coil for Improved Short Circuit Detection and Current
+Turn-Off Capability”, IEEE PPC, USA, 2011
 </dd>
 </dl>
-<h2 id="further-scientific-publications-and-presentations">Further Scientific Publications and Presentations</h2>
+<h2 id="further-scientific-publications-and-presentations">Further
+Scientific Publications and Presentations</h2>
 <dl>
 <dt>[Workshop 2024]</dt>
-<dd>C. R. Sullivan, <strong>T. Guillod</strong>, “Thermal, Scaling and Dielectric Issues in Magnetics Design”, PSMA Workshop, High Frequency Power Magnetics, USA, 2024
+<dd>
+C. R. Sullivan, <strong>T. Guillod</strong>, “Thermal, Scaling and
+Dielectric Issues in Magnetics Design”, PSMA Workshop, High Frequency
+Power Magnetics, USA, 2024
 </dd>
 <dt>[Talk 2023]</dt>
-<dd><strong>T. Guillod</strong>, “Using (Simple) Neural Networks to boost Power Magnetics Models”, Mag &amp; Mad Conference, Spain, 2023
+<dd>
+<strong>T. Guillod</strong>, “Using (Simple) Neural Networks to boost
+Power Magnetics Models”, Mag &amp; Mad Conference, Spain, 2023
 </dd>
 <dt>[Talk 2023]</dt>
-<dd><strong>T. Guillod</strong>, “MagNet Challenge Webinar: Equation-based Baseline Models”, IEEE PELS MagNet Challenge Webinar, 2023
+<dd>
+<strong>T. Guillod</strong>, “MagNet Challenge Webinar: Equation-based
+Baseline Models”, IEEE PELS MagNet Challenge Webinar, 2023
 </dd>
 <dt>[Workshop 2022]</dt>
-<dd><strong>T. Guillod</strong>, C. R. Sullivan, “Data-Driven Core-Loss Modeling”, ECPE Magnetic Components Workshop, France, 2022
+<dd>
+<strong>T. Guillod</strong>, C. R. Sullivan, “Data-Driven Core-Loss
+Modeling”, ECPE Magnetic Components Workshop, France, 2022
 </dd>
 <dt>[Workshop 2022]</dt>
-<dd>C. R. Sullivan, <strong>T. Guillod</strong>, “Magnetic Core Geometry Influences on Component Performance”, PSMA Workshop, High Frequency Power Magnetics, USA, 2022
+<dd>
+C. R. Sullivan, <strong>T. Guillod</strong>, “Magnetic Core Geometry
+Influences on Component Performance”, PSMA Workshop, High Frequency
+Power Magnetics, USA, 2022
 </dd>
 <dt>[Workshop 2021]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “ANN Powered Models for Magnetic Components”, ECPE Online Workshop, Steps towards Design Automation &amp; Artificial Intelligence in Power Electronics, 2021
-</dd>
-<dt>[Talk 2021]</dt>
-<dd>J. W. Kolar, J. Huber, <strong>T. Guillod</strong>, “Fundamentals and Application Oriented Evaluation of Solid State Transformer Concepts”, PSMA Webinar, Roadmap Presentation, 2021
-</dd>
-<dt>[Talk 2020]</dt>
-<dd>P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J.W. Kolar, “Experimental Analysis of a 166kW Medium Voltage/Frequency Air Core Transformer for 1:1 DCX Applications”, IEEC ECCE, USA, 2020
-</dd>
-<dt>[Talk 2020]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “From Brute Force Grid Search to Artificial Intelligence: Which Algorithms for Magnetics Optimization?”, APEC PSMA Industry Session, USA, 2020
-</dd>
-<dt>[Patent 2020]</dt>
-<dd>P. Czyz, P. Papamanolis, V. Lazarevic, <strong>T. Guillod</strong>, F. Krismer, J.W. Kolar, “Voltage Source Converter Configured to Transition Between at Least Two Voltage Levels”, Swedish patent application, 2020
-</dd>
-<dt>[Workshop 2020]</dt>
-<dd>P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Minimum Loss Operation of High Frequency Inductors”, ECPE Magnetic Components Workshop, France, 2020
-</dd>
-<dt>[Article 2019]</dt>
-<dd>D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “Use Electrical Energy More Efficiently with New Solid-State Transformers”, Swiss National Science Foundation NRP 70/71, 2019
-</dd>
-<dt>[Talk 2019]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “Handling Design Space Diversity of Power Electronics Multi-Objective Optimization”, IEEE Design Automation for Power Electronics, Italy, 2019
-</dd>
-<dt>[Talk 2019]</dt>
-<dd><strong>T. Guillod</strong>, D. Rothmund, J. W. Kolar, “10kV SiC MOSFETs for Solid-State Transformers: Opportunities and Challenges”, X-Power Electronics Conference, China, 2019
-</dd>
-<dt>[Workshop 2019]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “Dielectric Losses in the Insulation of Dry-Type Medium-Frequency Transformers”, ECPE Solid-State Transformer Workshop, Switzerland, 2019
-</dd>
-<dt>[PhD Thesis 2018]</dt>
-<dd><strong>T. Guillod</strong>, “Modeling and Design of Medium-Frequency Transformers for Future Medium-Voltage Power Electronics Interfaces”, PhD Thesis, ETH Zurich, 2018
-</dd>
-<dt>[Talk 2018]</dt>
-<dd>D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer”, IEEC ECCE, USA, 2018
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “ANN Powered Models for
+Magnetic Components”, ECPE Online Workshop, Steps towards Design
+Automation &amp; Artificial Intelligence in Power Electronics, 2021
 </dd>
 </dl>
 <div style="page-break-after: always; visibility: hidden">
 
 </div>
 <dl>
+<dt>[Talk 2021]</dt>
+<dd>
+J. W. Kolar, J. Huber, <strong>T. Guillod</strong>, “Fundamentals and
+Application Oriented Evaluation of Solid State Transformer Concepts”,
+PSMA Webinar, Roadmap Presentation, 2021
+</dd>
+<dt>[Talk 2020]</dt>
+<dd>
+P. Czyz, <strong>T. Guillod</strong>, F. Krismer, J.W. Kolar,
+“Experimental Analysis of a 166kW Medium Voltage/Frequency Air Core
+Transformer for 1:1 DCX Applications”, IEEC ECCE, USA, 2020
+</dd>
+<dt>[Talk 2020]</dt>
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “From Brute Force Grid Search
+to Artificial Intelligence: Which Algorithms for Magnetics
+Optimization?”, APEC PSMA Industry Session, USA, 2020
+</dd>
+<dt>[Patent 2020]</dt>
+<dd>
+P. Czyz, P. Papamanolis, V. Lazarevic, <strong>T. Guillod</strong>, F.
+Krismer, J.W. Kolar, “Voltage Source Converter Configured to Transition
+Between at Least Two Voltage Levels”, Swedish patent application, 2020
+</dd>
+<dt>[Workshop 2020]</dt>
+<dd>
+P. Papamanolis, <strong>T. Guillod</strong>, F. Krismer, J. W. Kolar,
+“Minimum Loss Operation of High Frequency Inductors”, ECPE Magnetic
+Components Workshop, France, 2020
+</dd>
+<dt>[Article 2019]</dt>
+<dd>
+D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar, “Use
+Electrical Energy More Efficiently with New Solid-State Transformers”,
+Swiss National Science Foundation NRP 70/71, 2019
+</dd>
+<dt>[Talk 2019]</dt>
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “Handling Design Space
+Diversity of Power Electronics Multi-Objective Optimization”, IEEE
+Design Automation for Power Electronics, Italy, 2019
+</dd>
+<dt>[Talk 2019]</dt>
+<dd>
+<strong>T. Guillod</strong>, D. Rothmund, J. W. Kolar, “10kV SiC MOSFETs
+for Solid-State Transformers: Opportunities and Challenges”, X-Power
+Electronics Conference, China, 2019
+</dd>
+<dt>[Workshop 2019]</dt>
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “Dielectric Losses in the
+Insulation of Dry-Type Medium-Frequency Transformers”, ECPE Solid-State
+Transformer Workshop, Switzerland, 2019
+</dd>
+<dt>[PhD Thesis 2018]</dt>
+<dd>
+<strong>T. Guillod</strong>, “Modeling and Design of Medium-Frequency
+Transformers for Future Medium-Voltage Power Electronics Interfaces”,
+PhD Thesis, ETH Zurich, 2018
+</dd>
+<dt>[Talk 2018]</dt>
+<dd>
+D. Rothmund, <strong>T. Guillod</strong>, D. Bortis, J. W. Kolar,
+“Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz
+Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer”,
+IEEC ECCE, USA, 2018
+</dd>
 <dt>[Workshop 2017]</dt>
-<dd><strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Dielectric Losses: MV/MF Converter Insulation”, SCCER FURIES Technical Workshop, Switzerland, 2017
+<dd>
+<strong>T. Guillod</strong>, F. Krismer, J. W. Kolar, “Dielectric
+Losses: MV/MF Converter Insulation”, SCCER FURIES Technical Workshop,
+Switzerland, 2017
 </dd>
 <dt>[Talk 2016]</dt>
-<dd><strong>T. Guillod</strong>, J. W. Kolar, “Medium-Frequency Transformers for Smart Grid Applications: Challenges and Opportunities”, SCCER-FURIES Annual Conference, Switzerland, 2016
+<dd>
+<strong>T. Guillod</strong>, J. W. Kolar, “Medium-Frequency Transformers
+for Smart Grid Applications: Challenges and Opportunities”, SCCER-FURIES
+Annual Conference, Switzerland, 2016
 </dd>
 <dt>[Poster 2015]</dt>
-<dd><strong>T. Guillod</strong>, R. Färber, C. M. Franck, J. W. Kolar, “Effects of Mixed-Frequency Voltage Stress on Dry-Type Insulation Systems”, SCCER-FURIES Annual Conference, Switzerland, 2015
+<dd>
+<strong>T. Guillod</strong>, R. Färber, C. M. Franck, J. W. Kolar,
+“Effects of Mixed-Frequency Voltage Stress on Dry-Type Insulation
+Systems”, SCCER-FURIES Annual Conference, Switzerland, 2015
 </dd>
 <dt>[Article 2013]</dt>
-<dd>M. Pfeiffer, <strong>T. Guillod</strong>, M. Weber, C. Franck, “Erhöhung der Übertragungskapazität durch Hybride AC/DC-Freileitungen, Potenzial und Machbarkeit in der Schweiz”, Bulletin SEV/AES Electrosuisse, 2013
+<dd>
+M. Pfeiffer, <strong>T. Guillod</strong>, M. Weber, C. Franck, “Erhöhung
+der Übertragungskapazität durch Hybride AC/DC-Freileitungen, Potenzial
+und Machbarkeit in der Schweiz”, Bulletin SEV/AES Electrosuisse, 2013
 </dd>
 <dt>[Poster 2013]</dt>
-<dd><strong>T. Guillod</strong>, “Simulation von AC/DC hybriden Freileitungen”, ETG-Innovationspreis, 2013
+<dd>
+<strong>T. Guillod</strong>, “Simulation von AC/DC hybriden
+Freileitungen”, ETG-Innovationspreis, 2013
 </dd>
 <dt>[Master 2013]</dt>
-<dd><strong>T. Guillod</strong>, “Simulation of AC/DC Hybrid Overhead Lines”, Master Thesis, ETH Zurich, 2013
+<dd>
+<strong>T. Guillod</strong>, “Simulation of AC/DC Hybrid Overhead
+Lines”, Master Thesis, ETH Zurich, 2013
 </dd>
 <dt>[Talk 2012]</dt>
-<dd>F. Kehl, <strong>T. Guillod</strong>, “Combined FEM and Analytical Method for the Simulation and Optimization of Planar Dielectric Waveguide Grating Biosensors”, Workshop on Numerical Methods for Optical Nano Structures, Switzerland, 2012
+<dd>
+F. Kehl, <strong>T. Guillod</strong>, “Combined FEM and Analytical
+Method for the Simulation and Optimization of Planar Dielectric
+Waveguide Grating Biosensors”, Workshop on Numerical Methods for Optical
+Nano Structures, Switzerland, 2012
 </dd>
 </dl>
+<div style="page-break-after: always; visibility: hidden">
+
+</div>
 <h2 id="awards-grants">Awards &amp; Grants</h2>
 <dl>
-<dt>IEEE OJPEL 2023</dt>
-<dd>IEEE OJPEL Transactions First Prize Award (first author)
+<dt>IEEE APEC 2025</dt>
+<dd>
+Best Presentation Award
 </dd>
-<dt>IEEE TPEL 2023</dt>
-<dd>IEEE TPEL Transactions First Prize Award (co-author)
+<dt>IEEE TPEL 2024</dt>
+<dd>
+IEEE TPEL Transactions First Prize Award (co-author)
+</dd>
+<dt>IEEE OJPEL 2023</dt>
+<dd>
+IEEE OJPEL Transactions First Prize Award (first author)
 </dd>
 <dt>IUCRC PMIC 2023</dt>
-<dd>Power Management Integration Center / NSF IUCRC / Accepted Project
+<dd>
+Power Management Integration Center / NSF IUCRC / Accepted Project
 </dd>
 <dt>SNSF PostDoc 2021</dt>
-<dd>Swiss National Science Foundation Mobility Fellowship
+<dd>
+Swiss National Science Foundation Mobility Fellowship
 </dd>
 <dt>IEEE JESTPE 2021</dt>
-<dd>IEEE JESTPE Transactions Second Prize Award (first author)
+<dd>
+IEEE JESTPE Transactions Second Prize Award (first author)
 </dd>
 <dt>IEEE JESTPE 2020</dt>
-<dd>IEEE JESTPE Transactions First Prize Award (co-author)
+<dd>
+IEEE JESTPE Transactions First Prize Award (co-author)
 </dd>
 <dt>IEEE ECCE 2018</dt>
-<dd>Best Paper Award
+<dd>
+Best Paper Award
 </dd>
 <dt>IEEE ECCE 2016</dt>
-<dd>Travel Grant Award
+<dd>
+Travel Grant Award
 </dd>
 <dt>IEEE IECON 2015</dt>
-<dd>Best Presentation Recognition
+<dd>
+Best Presentation Recognition
 </dd>
 <dt>IEEE IECON 2015</dt>
-<dd>Travel Grant Award
+<dd>
+Travel Grant Award
 </dd>
 <dt>IEEE ECCE 2014</dt>
-<dd>Best Overall Oral Presentation
+<dd>
+Best Overall Oral Presentation
 </dd>
 <dt>IEEE ECCE 2014</dt>
-<dd>Best Overall Student Paper
+<dd>
+Best Overall Student Paper
 </dd>
 <dt>Electrosuisse 2013</dt>
-<dd>ETG-Innovationspreis Finalist
+<dd>
+ETG-Innovationspreis Finalist
 </dd>
 </dl>
 </body>

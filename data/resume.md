@@ -192,6 +192,8 @@ Peer-Reviewed Scientific Journal Papers
 [JESTPE 2019]
 :   D. Rothmund, **T. Guillod**, D. Bortis, J. W. Kolar, "99% Efficient 10kV SiC-Based 7kV/400V DC-Transformer for Future Data Centers", IEEE J. Emerg. Sel. Topics Power Electron., 2019.
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 [JESTPE 2019]
 :   D. Rothmund, **T. Guillod**, D. Bortis, J. W. Kolar, "99.1% Efficient 10kV SiC-Based Medium Voltage ZVS Bidirectional Single-Phase PFC AC/DC Stage", IEEE J. Emerg. Sel. Topics Power Electron., 2019.
 
@@ -200,8 +202,6 @@ Peer-Reviewed Scientific Journal Papers
 
 [ELEN 2017]
 :   R. Bosshard, **T. Guillod**, J. W. Kolar, "Electromagnetic Field Patterns and Energy Flux of Efficiency Optimal Inductive Power Transfer Systems", Springer / Electrical Engineering, 2017
-
-<div style="page-break-after: always; visibility: hidden"></div>
 
 [JESTPE 2017]
 :   **T. Guillod**, F. Krismer, J. W. Kolar, "Protection of MV Converters in the Grid: The Case of MV/LV Solid-State Transformers", IEEE J. Emerg. Sel. Topics Power Electron., 2017
@@ -217,6 +217,9 @@ Peer-Reviewed Scientific Journal Papers
 
 Peer-Reviewed International Conference Proceedings
 --------------------------------------------------
+
+[APEC 2025]
+:   **T. Guillod**, C. R. Sullivan, "Free-Shape Optimization of VHF Air-Core Inductors using a Constraint-Aware Genetic Algorithm", IEEE APEC, USA, 2025
 
 [APEC 2024]
 :   **T. Guillod**, W. V. R. Roberts, C. R. Sullivan, "Characterization and Impact of Large-Signal Dielectric Properties in MnZn Ferrites", IEEE APEC, USA, 2024
@@ -242,6 +245,8 @@ Peer-Reviewed International Conference Proceedings
 [APEC 2022]
 :   H. Li, D. Serrano, **T. Guillod**, E. Dogariu, A. B. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling", IEEE APEC, USA, 2022
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 [CIPS 2020]
 :   M. Kasper, L. Peluso, G. Deboy, G. Knabben, **T. Guillod**, J. W. Kolar, "Ultra-high Power Density Server Supplies Employing GaN Power Semiconductors and PCB-Integrated Magnetics", IEEE CIPS, Germany, 2020
 
@@ -262,8 +267,6 @@ Peer-Reviewed International Conference Proceedings
 
 [ECCE USA 2016]
 :   **T. Guillod**, R. Färber, F. Krismer, C. M. Franck, J. W. Kolar, "Computation and Analysis of Dielectric Losses in MV Power Electronic Converter Insulation", IEEE ECCE, USA, 2016
-
-<div style="page-break-after: always; visibility: hidden"></div>
 
 [IECON 2015]
 :   **T. Guillod**, F. Krismer, R. Färber, C. M. Franck, J. W. Kolar, "Protection of MV/LV Solid-State Transformers in the Distribution Grid", IEEE IECON, Japan, 2015
@@ -301,6 +304,8 @@ Further Scientific Publications and Presentations
 [Workshop 2021]
 :   **T. Guillod**, J. W. Kolar, "ANN Powered Models for Magnetic Components", ECPE Online Workshop, Steps towards Design Automation & Artificial Intelligence in Power Electronics, 2021
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 [Talk 2021]
 :   J. W. Kolar, J. Huber, **T. Guillod**, "Fundamentals and Application Oriented Evaluation of Solid State Transformer Concepts", PSMA Webinar, Roadmap Presentation, 2021
 
@@ -334,8 +339,6 @@ Further Scientific Publications and Presentations
 [Talk 2018]
 :   D. Rothmund, **T. Guillod**, D. Bortis, J. W. Kolar, "Design and Experimental Analysis of a 10kV SiC MOSFET Based 50kHz Soft-Switching Single-Phase 3.8kV AC/400V DC Solid-State Transformer", IEEC ECCE, USA, 2018
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
 [Workshop 2017]
 :   **T. Guillod**, F. Krismer, J. W. Kolar, "Dielectric Losses: MV/MF Converter Insulation", SCCER FURIES Technical Workshop, Switzerland, 2017
 
@@ -357,14 +360,19 @@ Further Scientific Publications and Presentations
 [Talk 2012]
 :   F. Kehl, **T. Guillod**, "Combined FEM and Analytical Method for the Simulation and Optimization of Planar Dielectric Waveguide Grating Biosensors", Workshop on Numerical Methods for Optical Nano Structures, Switzerland, 2012
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
 Awards & Grants
 ---------------
 
+IEEE APEC 2025
+:   Best Presentation Award
+
+IEEE TPEL 2024
+:   IEEE TPEL Transactions First Prize Award (co-author)
+
 IEEE OJPEL 2023
 :   IEEE OJPEL Transactions First Prize Award (first author)
-
-IEEE TPEL 2023
-:   IEEE TPEL Transactions First Prize Award (co-author)
 
 IUCRC PMIC 2023
 :   Power Management Integration Center / NSF IUCRC / Accepted Project

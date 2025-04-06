@@ -44,7 +44,7 @@ Work Experience
     
     Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.
      
-    *Establishing a new research direction in machine learning*<br>
+    *Establishment of a new research direction in machine learning*<br>
     *Development of calorimetric measurement techniques for magnetic materials*<br>
     *Involvement in the co-supervision of two Ph.D. projects*<br>
 

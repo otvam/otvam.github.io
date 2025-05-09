@@ -134,7 +134,7 @@ Computer
     COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, MATLAB, C, PyTorch, Pandas, SQL, Qt, DSP, HPC, Bash
+:   Python, MATLAB, C, PyTorch, JAX, Pandas, SQL, Qt, DSP, HPC, Bash
 
 Open-source
 :   Development and maintenance of scientific open-source tools

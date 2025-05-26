@@ -286,6 +286,9 @@ Peer-Reviewed International Conference Proceedings
 Further Scientific Publications and Presentations
 -------------------------------------------------
 
+[Talk 2025]
+:   **T. Guillod**, "Soft Magnetic Materials and Ordinary Differential Equations: From Linear Circuits to Neural Network Models", IEEE PELS MagNet Challenge Webinar, 2025
+
 [Workshop 2024]
 :   C. R. Sullivan, **T. Guillod**, "Thermal, Scaling and Dielectric Issues in Magnetics Design", PSMA Workshop, High Frequency Power Magnetics, USA, 2024
 
@@ -301,10 +304,10 @@ Further Scientific Publications and Presentations
 [Workshop 2022]
 :   C. R. Sullivan, **T. Guillod**, "Magnetic Core Geometry Influences on Component Performance", PSMA Workshop, High Frequency Power Magnetics, USA, 2022
 
-[Workshop 2021]
-:   **T. Guillod**, J. W. Kolar, "ANN Powered Models for Magnetic Components", ECPE Online Workshop, Steps towards Design Automation & Artificial Intelligence in Power Electronics, 2021
-
 <div style="page-break-after: always; visibility: hidden"></div>
+
+[Workshop 2021]
+:   **T. Guillod**, J. W. Kolar, "ANN Powered Models for Magnetic Components", ECPE Workshop, Steps towards Design Automation & Artificial Intelligence in Power Electronics, 2021
 
 [Talk 2021]
 :   J. W. Kolar, J. Huber, **T. Guillod**, "Fundamentals and Application Oriented Evaluation of Solid State Transformer Concepts", PSMA Webinar, Roadmap Presentation, 2021

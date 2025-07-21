@@ -368,6 +368,9 @@ Further Scientific Publications and Presentations
 Awards & Grants
 ---------------
 
+IUCRC PMIC 2025
+:   Power Management Integration Center / NSF IUCRC / Project 94
+
 IEEE APEC 2025
 :   Best Presentation Award
 
@@ -378,7 +381,7 @@ IEEE OJPEL 2023
 :   IEEE OJPEL Transactions First Prize Award (first author)
 
 IUCRC PMIC 2023
-:   Power Management Integration Center / NSF IUCRC / Accepted Project
+:   Power Management Integration Center / NSF IUCRC / Project 62
 
 SNSF PostDoc 2021
 :   Swiss National Science Foundation Mobility Fellowship

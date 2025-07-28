@@ -286,6 +286,9 @@ Peer-Reviewed International Conference Proceedings
 Further Scientific Publications and Presentations
 -------------------------------------------------
 
+[Seminar 2025]
+:   **T. Guillod**, "Open-Source Workflow for Scientific Paper Figures: Inkscape, Python, Matplotlib, and PyVista", Dartmouth College, 2025
+
 [Talk 2025]
 :   **T. Guillod**, "Soft Magnetic Materials and Ordinary Differential Equations: From Linear Circuits to Neural Network Models", IEEE PELS MagNet Challenge Webinar, 2025
 

@@ -218,6 +218,9 @@ Peer-Reviewed Scientific Journal Papers
 Peer-Reviewed International Conference Proceedings
 --------------------------------------------------
 
+[COMPEL 2025]
+:   S. Wang, K. Hyukjae, D. Grigoryan, H. Li, **T. Guillod**, C. R. Sullivan, M. Chen, "Unified Time Domain Foundation Models for Hysteretic Passive Components", IEEE COMPEL, USA, 2025
+
 [APEC 2025]
 :   **T. Guillod**, C. R. Sullivan, "Free-Shape Optimization of VHF Air-Core Inductors using a Constraint-Aware Genetic Algorithm", IEEE APEC, USA, 2025
 
@@ -371,11 +374,14 @@ Further Scientific Publications and Presentations
 Awards & Grants
 ---------------
 
+IEEE COMPEL 2025
+:   Best Paper Award (co-author)
+
 IUCRC PMIC 2025
 :   Power Management Integration Center / NSF IUCRC / Project 94
 
 IEEE APEC 2025
-:   Best Presentation Award
+:   Best Presentation Award (first author)
 
 IEEE TPEL 2024
 :   IEEE TPEL Transactions First Prize Award (co-author)
@@ -396,23 +402,23 @@ IEEE JESTPE 2020
 :   IEEE JESTPE Transactions First Prize Award (co-author)
 
 IEEE ECCE 2018
-:   Best Paper Award
+:   Best Paper Award (first author)
 
 IEEE ECCE 2016
-:   Travel Grant Award
+:   Travel Grant Award (first author)
 
 IEEE IECON 2015
-:   Best Presentation Recognition
+:   Best Presentation Recognition (first author)
 
 IEEE IECON 2015
-:   Travel Grant Award
+:   Travel Grant Award (first author)
 
 IEEE ECCE 2014
-:   Best Overall Oral Presentation
+:   Best Overall Oral Presentation (first author)
 
 IEEE ECCE 2014
-:   Best Overall Student Paper
+:   Best Overall Student Paper (first author)
 
 Electrosuisse 2013
-:   ETG-Innovationspreis Finalist
+:   ETG-Innovationspreis Finalist (first author)
 

@@ -144,6 +144,9 @@ Open-source
 Peer-Reviewed Scientific Journal Papers
 ---------------------------------------
 
+[JOSS 2025]
+:   **T. Guillod**, C. R. Sullivan, "PyPEEC: A 3D Quasi-Magnetostatic Solver using an FFT-Accelerated PEEC Method with Voxelization", Journal of Open Source Software, 2025
+
 [OJPEL 2024]
 :   M. Chen, H. Li, S. Wang, **T. Guillod**, et al., "MagNet Challenge for Data-Driven Power Magnetics Modeling", IEEE Open Access Journal of Power Electronics, 2024
 

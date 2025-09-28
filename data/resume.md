@@ -29,6 +29,7 @@ Work Experience
     
     *Modeling techniques for high-performance ferrite materials*<br>
     *Characterization and impact of large-signal dielectric effects in ferrite materials*<br>
+    *Magnetic materials and components for pulsed / directed energy systems*<br>
     *Free-shape optimization of very high-frequency air-core inductors*<br>
     
 07.2020 - 06.2021
@@ -69,7 +70,7 @@ Work Experience
 
     Division: Converter Engineering, Propulsion, and Controls
     
-    *Development of traction chains of high-speed trains (transformer and converter)*
+    *Development of traction chains for high-speed trains (transformer and converter)*
 
 08.2008 - 09.2009
 :   **Teacher Substitute**, CIFOM-ET, Le Locle, Switzerland
@@ -129,15 +130,15 @@ Science
 :   Numerical analysis, multi-objective optimization, electromagnetism, converter design,<br>
     field simulations, high-frequency measurements, high-voltage testing, machine learning
 
-Computer
+Software
 :   Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,<br>
     COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
 
 Programming
-:   Python, MATLAB, C, PyTorch, JAX, Pandas, SQL, Qt, DSP, HPC, Bash
+:   Python, MATLAB, C, PyTorch, JAX, NumPy, SciPy, Pandas, SQL, Qt, DSP, HPC, Bash
 
 Open-source
-:   Development and maintenance of scientific open-source tools
+:   Development and maintenance of scientific open-source tools ([https://github.com/otvam](https://github.com/otvam))
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -148,7 +149,7 @@ Peer-Reviewed Scientific Journal Papers
 :   **T. Guillod**, C. R. Sullivan, "PyPEEC: A 3D Quasi-Magnetostatic Solver using an FFT-Accelerated PEEC Method with Voxelization", Journal of Open Source Software, 2025
 
 [OJPEL 2024]
-:   M. Chen, H. Li, S. Wang, **T. Guillod**, et al., "MagNet Challenge for Data-Driven Power Magnetics Modeling", IEEE Open Access Journal of Power Electronics, 2024
+:   M. Chen, H. Li, S. Wang, **T. Guillod**, et al., "MagNet Challenge for Data-Driven Power Magnetics Modeling", IEEE Open Journal of Power Electronics, 2024
 
 [TPEL 2024]
 :   S. Wang, H. Li, D. Serrano, **T. Guillod**, J. Li, C. R. Sullivan, M. Chen, "A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer", IEEE Trans. Power Electron., 2024

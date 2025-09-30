@@ -9,37 +9,37 @@ Thomas Guillod / CV
 
 ----
 
-------------------------         --------------------------------------------------------------------
-Location: NH, USA                                        <guillod@dartmouth.edu> / <guillod@otvam.ch>
-Citizenship: Switzerland         [https://linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
-Birth year: 1989                                 [https://github.com/otvam](https://github.com/otvam)
-------------------------         --------------------------------------------------------------------
+----------------------------         --------------------------------------------------------------------
+Location: New Hampshire, USA                                 <guillod@dartmouth.edu> / <guillod@otvam.ch>
+Citizenship: Switzerland             [https://linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
+Birth year: 1989                                     [https://github.com/otvam](https://github.com/otvam)
+----------------------------         --------------------------------------------------------------------
 
 ----
 
-<br><br>
+<br>
 
 Work Experience
 ---------------
 
 04.2021 - current
 :   **Associate Researcher**, Thayer School of Engineering, Dartmouth College, NH, USA
-
+    
     Research group: Prof. Charles R. Sullivan
     
     *Modeling techniques for high-performance ferrite materials*<br>
     *Characterization and impact of large-signal dielectric effects in ferrite materials*<br>
     *Magnetic materials and components for pulsed / directed energy systems*<br>
     *Free-shape optimization of very high-frequency air-core inductors*<br>
-    
+
 07.2020 - 06.2021
 :   **Independent Engineering Consultant**, otvam consulting, Zurich, Switzerland
-
+    
     *Magnetic component design and converter optimization*<br>
     *Optimization of power supplies for high-power plasma*<br>
     *Design of high-power air-core transformers and resonant tanks*<br>
-    *Management of contracts, intellectual property, and taxes*<br>
- 
+    *Management of contracts, intellectual property, and taxes*<br><br>
+
 11.2018 - 07.2020
 :   **Postdoctoral Researcher**, ETH Zurich, Switzerland
     
@@ -47,34 +47,34 @@ Work Experience
      
     *Establishment of a new research direction in machine learning*<br>
     *Development of calorimetric measurement techniques for magnetic materials*<br>
-    *Involvement in the co-supervision of two Ph.D. projects*<br>
+    *Co-supervision of two Ph.D. projects*<br><br>
 
 09.2013 - 11.2018
 :   **Research & Teaching Assistant**, ETH Zurich, Switzerland
-
+    
     Research group: Prof. Johann W. Kolar, Power Electronic Systems Lab.
-
+    
     *Design of highly efficient medium-voltage / medium-frequency transformers*<br>
     *Completion of the first 99% efficient 10kV SiC-based isolated DC-DC converter*<br>
-    *Teaching assistant, student thesis supervision, and lecture coordination*<br>
-    
+    *Teaching assistant, student thesis supervision, and lecture coordination*<br><br>
+
 04.2013 - 07.2013
 :   **Research Assistant**, ETH Zurich, Switzerland
- 
+     
     Research group: Prof. Christian M. Franck, High Voltage Lab.
     
-    *Study of high voltage corona discharges with mixed AC/DC voltages*
-     
+    *Study of high voltage corona discharges with mixed AC/DC voltages*<br><br>
+
 09.2011 - 12.2011
 :   **Intern**, Bombardier Transportation, Zurich, Switzerland
-
+    
     Division: Converter Engineering, Propulsion, and Controls
     
-    *Development of traction chains for high-speed trains (transformer and converter)*
+    *Development of traction chains for high-speed trains (transformer and converter)*<br><br>
 
 08.2008 - 09.2009
 :   **Teacher Substitute**, CIFOM-ET, Le Locle, Switzerland
-
+    
     *Mathematics and physics teaching at a technical high school*
 
 <div style="page-break-after: always; visibility: hidden"></div>
@@ -84,31 +84,31 @@ Education
 
 09.2013 - 11.2018
 :   **Doctorate**, ETH Zurich, Switzerland, Power Electronic Systems Lab.
-
+    
     *Modeling and Design of Medium-Voltage Medium-Frequency Transformers*
- 
-    Advisor: Prof. Johann W. Kolar
+     
+    Advisor: Prof. Johann W. Kolar<br><br>
 
 09.2012 - 03.2013
 :   **Master Thesis**, ETH Zurich, Switzerland, High Voltage Lab. (with Swissgrid)
-
+    
     *Simulation of AC/DC Hybrid Overhead Lines*
- 
-     Advisor: Prof. Christian M. Franck
      
-02.2011 - 03.2013
-:   **Master of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.
+     Advisor: Prof. Christian M. Franck<br><br>
 
+02.2011 - 03.2013
+:   **Master of Science**, ETH Zurich, Switzerland, Electrical Engineering and Information Tech.
+    
     *Focus area: numerical methods, field theory, and high voltage technology*
     
-    *Overall grade point average: 5.8 out of 6.0 (with distinction)*
-     
-09.2007 - 02.2011
-:   **Bachelor of Science**, ETH Zurich, Switzerland, Electrical Engineering and Inf. Tech.
+    *Overall grade point average: 5.8 out of 6.0 (with distinction)*<br><br>
 
+09.2007 - 02.2011
+:   **Bachelor of Science**, ETH Zurich, Switzerland, Electrical Engineering and Information Tech.
+    
     *Major: Energy and Power Electronics*
     
-    *Overall grade point average: 5.5 out of 6.0 (very good)*
+    *Overall grade point average: 5.5 out of 6.0 (very good)*<br>
 
 Languages
 ---------

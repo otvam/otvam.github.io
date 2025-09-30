@@ -132,7 +132,7 @@ Science
 
 Software
 :   Linux, Windows, Word, Excel, Powerpoint, Airtable, Illustrator, LaTeX,<br>
-    COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS
+    COMSOL, Ansys EM, Altium, KiCad, Inventor, Simulink, SPICE, PLECS, Git
 
 Programming
 :   Python, MATLAB, C, PyTorch, JAX, NumPy, SciPy, Pandas, SQL, Qt, DSP, HPC, Bash

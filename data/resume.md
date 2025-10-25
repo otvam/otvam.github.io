@@ -117,10 +117,10 @@ French
 :   Native speaker
 
 English
-:   Fluent (C1) - Master and PhD studies in English, many publications in English
+:   Fluent (C1) - Master and PhD studies in English, 4 years in the USA
 
 German
-:   Fluent (C1) - Bachelor studies in German, Intensivkurs Deutsch als Fremdsprache
+:   Fluent (C1) - Bachelor studies in German, 14 years in Zurich
 
 
 Skills
@@ -406,7 +406,7 @@ IEEE JESTPE 2020
 :   IEEE JESTPE Transactions First Prize Award (co-author)
 
 IEEE ECCE 2018
-:   Best Paper Award (first author)
+:   Best Paper Award (co-author)
 
 IEEE ECCE 2016
 :   Travel Grant Award (first author)

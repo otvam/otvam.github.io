@@ -222,6 +222,9 @@ Peer-Reviewed Scientific Journal Papers
 Peer-Reviewed International Conference Proceedings
 --------------------------------------------------
 
+[ICRERA 2025]
+:   **T. Guillod**, D. Zhang, C. R. Sullivan, J. W. Kolar, "Efficiency / Power Density Analysis of Single-Phase and Three-Phase Transformers Employed in DAB and SRC DC/DC Converters", IEEE ICRERA, Austria, 2025
+
 [COMPEL 2025]
 :   S. Wang, K. Hyukjae, D. Grigoryan, H. Li, **T. Guillod**, C. R. Sullivan, M. Chen, "Unified Time Domain Foundation Models for Hysteretic Passive Components", IEEE COMPEL, USA, 2025
 

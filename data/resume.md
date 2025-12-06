@@ -22,7 +22,7 @@ Birth year: 1989                                     [https://github.com/otvam](
 Work Experience
 ---------------
 
-04.2021 - current
+04.2021 - 12.2025
 :   **Associate Researcher**, Thayer School of Engineering, Dartmouth College, NH, USA
     
     Research group: Prof. Charles R. Sullivan

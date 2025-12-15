@@ -30,7 +30,7 @@ Work Experience
     *Modeling techniques for high-performance ferrite materials*<br>
     *Characterization and impact of large-signal dielectric effects in ferrite materials*<br>
     *Magnetic materials and components for pulsed / directed energy systems*<br>
-    *Free-shape optimization of very high-frequency air-core inductors*<br>
+    *Free-shape optimization of very high-frequency air-core inductors*<br><br>
 
 07.2020 - 06.2021
 :   **Independent Engineering Consultant**, otvam consulting, Zurich, Switzerland

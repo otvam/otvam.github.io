@@ -10,7 +10,7 @@ Thomas Guillod / CV
 ----
 
 ----------------------------         --------------------------------------------------------------------
-Location: New Hampshire, USA                                 <guillod@dartmouth.edu> / <guillod@otvam.ch>
+Location: New Hampshire, USA                                                           <guillod@otvam.ch>
 Citizenship: Switzerland             [https://linkedin.com/in/tguillod](https://linkedin.com/in/tguillod)
 Birth year: 1989                                     [https://github.com/otvam](https://github.com/otvam)
 ----------------------------         --------------------------------------------------------------------
@@ -296,8 +296,11 @@ Peer-Reviewed International Conference Proceedings
 Further Scientific Publications and Presentations
 -------------------------------------------------
 
+[Talk 2025]
+:   F. Berber Halmen, C. R. Sullivan, **T. Guillod**, , et al., "Impact of Magnetic Core Inductors and Transformers in HPM Systems: Designing Magnetic Materials for Efficiency", Directed Energy Systems Symposium, USA, 2025
+
 [Seminar 2025]
-:   **T. Guillod**, "Open-Source Workflow for Scientific Paper Figures: Inkscape, Python, Matplotlib, and PyVista", Dartmouth College, 2025
+:   **T. Guillod**, "Open-Source Workflow for Scientific Paper Figures: Inkscape, Python, Matplotlib, and PyVista", Dartmouth College, USA, 2025
 
 [Talk 2025]
 :   **T. Guillod**, "Soft Magnetic Materials and Ordinary Differential Equations: From Linear Circuits to Neural Network Models", IEEE PELS MagNet Challenge Webinar, 2025
